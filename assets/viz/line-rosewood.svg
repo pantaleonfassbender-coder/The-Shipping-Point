@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 470" role="img" aria-labelledby="lr-t lr-d" font-family="var(--serif)">
+<title id="lr-t">Seven weeks in 1923, as the papers told them</title><desc id="lr-d">Monday 1 January: alleged attack on a white woman at Sumner. Thursday night 4 January: armed white men besiege a house at Rosewood; two white men are killed, and by the first report two Black women and a Black man are dead in the house. Friday 5 January: the village burned at daybreak; fleeing residents fired upon. Saturday 6 January: James Carrier shot at his family's graves; seven dead by the report of 8 January. Saturday or Sunday: twelve more houses burned. 17 January: Abe Wilson lynched near Newberry. 12 to 15 February: special grand jury at Bronson, eight dead by its count, no indictment.</desc>
+<text x="16" y="28" font-size="17" font-weight="bold" fill="var(--ink)">Seven weeks in 1923, as the papers told them</text>
+<text x="16" y="48" font-size="13" fill="var(--ink2)">Above the line: what happened, by the reports. Below: how many dead each report counted. Each label links to its passage.</text>
+<line x1="50" y1="250" x2="870" y2="250" stroke="var(--ink2)"/>
+<line x1="66" y1="246" x2="66" y2="254" stroke="var(--ink2)"/><text x="66" y="268" font-size="11" text-anchor="middle" fill="var(--ink2)">1 Jan</text>
+<line x1="179" y1="246" x2="179" y2="254" stroke="var(--ink2)"/><text x="179" y="268" font-size="11" text-anchor="middle" fill="var(--ink2)">8 Jan</text>
+<line x1="291" y1="246" x2="291" y2="254" stroke="var(--ink2)"/><text x="291" y="268" font-size="11" text-anchor="middle" fill="var(--ink2)">15 Jan</text>
+<line x1="404" y1="246" x2="404" y2="254" stroke="var(--ink2)"/><text x="404" y="268" font-size="11" text-anchor="middle" fill="var(--ink2)">22 Jan</text>
+<line x1="516" y1="246" x2="516" y2="254" stroke="var(--ink2)"/><text x="516" y="268" font-size="11" text-anchor="middle" fill="var(--ink2)">29 Jan</text>
+<line x1="629" y1="246" x2="629" y2="254" stroke="var(--ink2)"/><text x="629" y="268" font-size="11" text-anchor="middle" fill="var(--ink2)">5 Feb</text>
+<line x1="741" y1="246" x2="741" y2="254" stroke="var(--ink2)"/><text x="741" y="268" font-size="11" text-anchor="middle" fill="var(--ink2)">12 Feb</text>
+<line x1="854" y1="246" x2="854" y2="254" stroke="var(--ink2)"/><text x="854" y="268" font-size="11" text-anchor="middle" fill="var(--ink2)">19 Feb</text>
+<rect x="114" y="90" width="64" height="160" fill="var(--colour)" opacity=".10"/>
+<line x1="66" y1="80" x2="66" y2="250" stroke="var(--line)"/><circle cx="66" cy="250" r="3.5" fill="var(--colour)"/>
+<a href="#/text/line/rosewood/3"><text x="70" y="76" font-size="12" text-anchor="start" fill="var(--ink)" text-decoration="underline">1 Jan: alleged attack at Sumner</text></a>
+<line x1="114" y1="100" x2="114" y2="250" stroke="var(--line)"/><circle cx="114" cy="250" r="3.5" fill="var(--colour)"/>
+<a href="#/text/line/rosewood/3"><text x="118" y="96" font-size="12" text-anchor="start" fill="var(--ink)" text-decoration="underline">4 Jan, night: house besieged</text></a>
+<line x1="130" y1="120" x2="130" y2="250" stroke="var(--line)"/><circle cx="130" cy="250" r="3.5" fill="var(--colour)"/>
+<a href="#/text/line/rosewood/3"><text x="134" y="116" font-size="12" text-anchor="start" fill="var(--ink)" text-decoration="underline">5 Jan: village burned, people fired upon</text></a>
+<line x1="146" y1="140" x2="146" y2="250" stroke="var(--line)"/><circle cx="146" cy="250" r="3.5" fill="var(--colour)"/>
+<a href="#/text/line/rosewood/4"><text x="150" y="136" font-size="12" text-anchor="start" fill="var(--ink)" text-decoration="underline">6 Jan: James Carrier killed</text></a>
+<line x1="163" y1="160" x2="163" y2="250" stroke="var(--line)"/><circle cx="163" cy="250" r="3.5" fill="var(--colour)"/>
+<a href="#/text/line/rosewood/5"><text x="167" y="156" font-size="12" text-anchor="start" fill="var(--ink)" text-decoration="underline">6 or 7 Jan: twelve more houses burned</text></a>
+<line x1="323" y1="190" x2="323" y2="250" stroke="var(--line)"/><circle cx="323" cy="250" r="3.5" fill="var(--colour)"/>
+<a href="#/text/line/after/7"><text x="327" y="186" font-size="12" text-anchor="start" fill="var(--ink)" text-decoration="underline">17 Jan: Abe Wilson lynched near Newberry</text></a>
+<line x1="741" y1="210" x2="741" y2="250" stroke="var(--line)"/><circle cx="741" cy="250" r="3.5" fill="var(--colour)"/>
+<a href="#/text/line/after/7"><text x="737" y="206" font-size="12" text-anchor="end" fill="var(--ink)" text-decoration="underline">12 Feb: special grand jury</text></a>
+<line x1="790" y1="230" x2="790" y2="250" stroke="var(--line)"/><circle cx="790" cy="250" r="3.5" fill="var(--colour)"/>
+<a href="#/text/line/after/8"><text x="786" y="226" font-size="12" text-anchor="end" fill="var(--ink)" text-decoration="underline">15 Feb: no indictment</text></a>
+<text x="16" y="302" font-size="13" font-weight="bold" fill="var(--ink)">Dead, by report</text>
+<rect x="170" y="290" width="26" height="24" fill="var(--ink2)"/><rect x="170" y="314" width="26" height="36" fill="var(--colour)"/>
+<rect x="170" y="350" width="26" height="36" fill="none" stroke="var(--colour)" stroke-dasharray="3 3"/><text x="202" y="374" font-size="11" fill="var(--colour)">“many” believed</text>
+<a href="#/text/line/rosewood/3"><text x="202" y="304" font-size="12" fill="var(--ink)" text-decoration="underline">5 Jan: 5 “known”</text></a>
+<rect x="340" y="290" width="26" height="24" fill="var(--ink2)"/><rect x="340" y="314" width="26" height="60" fill="var(--colour)"/>
+<a href="#/text/line/rosewood/5"><text x="372" y="304" font-size="12" fill="var(--ink)" text-decoration="underline">8 Jan: 7</text></a>
+<rect x="510" y="290" width="26" height="24" fill="var(--ink2)"/><rect x="510" y="314" width="26" height="72" fill="var(--colour)"/>
+<a href="#/text/line/after/7"><text x="542" y="304" font-size="12" fill="var(--ink)" text-decoration="underline">12 Feb: 8</text></a>
+<rect x="680" y="290" width="26" height="24" fill="var(--ink2)"/><rect x="680" y="314" width="26" height="72" fill="var(--colour)"/>
+<a href="#/text/line/after/8"><text x="712" y="304" font-size="12" fill="var(--ink)" text-decoration="underline">17 Feb: 8</text></a>
+<rect x="16" y="440" width="12" height="12" fill="var(--ink2)"/><text x="32" y="450" font-size="12" fill="var(--ink)">white dead (named from the first day)</text><rect x="270" y="440" width="12" height="12" fill="var(--colour)"/><text x="286" y="450" font-size="12" fill="var(--ink)">Black dead (counted; named only in part)</text><text x="560" y="450" font-size="12" fill="var(--ink2)">The official count stayed at eight; later accounts dispute it.</text>
+</svg>

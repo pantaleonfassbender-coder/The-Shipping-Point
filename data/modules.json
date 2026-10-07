@@ -26,6 +26,15 @@
    "quelle": "Ocala Evening Star 1897–1916; USDA Soil Survey 1904; Florida's Financial and Industrial Record 1910; SAL Shippers Guide 1914; Cammack 1916; USDA Bulletin 462 (1917); Lakeland Evening Telegram 1919; Florida Experiment Station Bulletin 175 (1925).",
    "datei": "shipping",
    "zk": "First cars · Trainload · 1919 · Who did the work"
+  },
+  {
+   "id": "line",
+   "side": "colour",
+   "kurz": "5 · The colour line",
+   "warum": "The lynching of Wash Bradley near Bronson in 1904 and the destruction of Rosewood in January 1923, from the reports of their time: who was named and who was not, how the violence was excused, and a grand jury that charged no one.",
+   "quelle": "Ocala Evening Star 1904; NAACP, Thirty Years of Lynching (1919); Palatka Daily News, January 1923; Miami Daily Metropolis and Fort Pierce News-Tribune, February 1923; The Crisis 1923; Palm Beach Post 1924.",
+   "datei": "line",
+   "zk": "Bronson 1904 · Rosewood 1923 · No indictment"
   }
  ],
  "planned": [
@@ -35,13 +44,6 @@
    "kurz": "1 · Before the rails",
    "warum": "Jesse M. Willis, the people he enslaved, and a settlement between Marion and Levy counties; Yulee's Florida Railroad to Cedar Key passes it by. In 1886 Archer, eleven miles off, is its shipping point.",
    "quelle": "Florida State Gazetteer 1886; Ocala Banner 1911; Makers of America 1911."
-  },
-  {
-   "id": "line",
-   "side": "colour",
-   "kurz": "5 · The colour line",
-   "warum": "Convict leasing, the lynching of Wash Bradley at Bronson in 1904, and Rosewood in January 1923, from the sources of their time; the missing voices named.",
-   "quelle": "NAACP, Thirty Years of Lynching (1919); Florida newspapers 1902–1923; state reports on convicts."
   },
   {
    "id": "airfield",
@@ -86,6 +88,27 @@
    "kurz": "The cucumber surveys of 1928–1932",
    "warum": "The Experiment Station followed Bulletin 175 with “Factors Affecting Cucumber Yields, Costs, and Profits: A Study of the Williston Area, Florida, for 1923, 1928, 1930 and 1932”. Published after 1930, its copyright status has to be checked before anything is printed from it.",
    "quelle": "University of Florida Agricultural Experiment Station, 1930s."
+  },
+  {
+   "id": "blackpress1923",
+   "side": "colour",
+   "kurz": "The Black press of 1923",
+   "warum": "The Chicago Defender, the Baltimore Afro-American, the New York Amsterdam News and other Black newspapers reported on Rosewood in January 1923. They are in the public domain but were not accessible from here; only The Crisis has been read so far. They are the nearest the record of the time comes to the voices of Rosewood's people.",
+   "quelle": "Black newspapers, January–March 1923."
+  },
+  {
+   "id": "rosewood1994",
+   "side": "colour",
+   "kurz": "The Rosewood act of 1994",
+   "warum": "In 1994 the Florida Legislature compensated survivors of Rosewood and their descendants. The act, an official text, can be printed once it has been read at the source; it has not been read yet.",
+   "quelle": "Laws of Florida, 1994."
+  },
+  {
+   "id": "levy1902",
+   "side": "colour",
+   "kurz": "The rumours of 1902",
+   "warum": "After the murder of Mr. and Mrs. L. B. Lewis south of Bronson in 1902, the Ocala Evening Star reported rumours of lynchings. They are not confirmed and are not in the NAACP's list; they are not printed.",
+   "quelle": "Ocala Evening Star, 1 September 1902, p. 2 (OCR only)."
   }
  ]
 }

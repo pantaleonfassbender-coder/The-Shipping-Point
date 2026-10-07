@@ -58,6 +58,15 @@ PLATES = {
     "oes1916_shipping": ("ufdc", "UF00075908/06487/0098.jp2", (564, 63, 712, 275)),
     "let1919_review": ("ufdc", "AA00048605/02171/0290.jp2", (345, 55, 512, 460)),
     "b175_cover": ("ufdc", "UF00026891/00001/00001.jp2", None),
+    # Modul 5: The colour line
+    "oes1904_levyville": ("ufdc", "UF00075908/01686/00228.jp2", (557, 126, 686, 440)),
+    "naacp1919_florida": ("ia", "https://archive.org/download/thirtyyearsoflyn00nati/page/n58.jpg", (60, 90, 905, 625)),
+    "pdn1923_jan5": ("ufdc", "AA00023799/00485/00001.jp2", (398, 150, 524, 860)),
+    "pdn1923_jan7": ("ufdc", "AA00023799/00486/00001.jp2", (776, 225, 914, 900)),
+    "pdn1923_jan8": ("ufdc", "AA00023799/00487/00001.jp2", (520, 222, 648, 830)),
+    "mdm1923_probe": ("ufdc", "AA00020298/01590/00001.jp2", (26, 680, 150, 942)),
+    "fpnt1923_noindictment": ("ufdc", "AA00081508/00274/00006.jp2", (486, 765, 602, 928)),
+    "crisis1923_india": ("ia", "https://archive.org/download/sim_crisis_1923-06_26_2/page/n35.jpg", (540, 280, 985, 845)),
     "sal1914_labor": ("ia", "https://archive.org/download/seaboardairliner1914seab/page/n83.jpg", (30, 70, 970, 960)),
 }
 

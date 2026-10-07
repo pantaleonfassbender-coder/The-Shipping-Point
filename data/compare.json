@@ -153,6 +153,94 @@
      "wer": "New York Packer, 1919"
     }
    ]
+  },
+  {
+   "id": "count",
+   "titel": "How many died at Rosewood?",
+   "frage": "How did the count of the dead change in the reports of the time?",
+   "note": "On 5 January five dead were “known” and many more “believed”. On 8 January the Associated Press counted seven, two white and five Black. In February the grand jury reports gave eight, two white and six Black, and the Miami report tied a ninth killing, the lynching of Abe Wilson near Newberry, to the same events. Only the white dead were named from the first day. The figure of eight remained the official one; later accounts dispute it.",
+   "voices": [
+    {
+     "text": "line",
+     "sec": "rosewood",
+     "n": [
+      3
+     ],
+     "wer": "Associated Press, 5 January"
+    },
+    {
+     "text": "line",
+     "sec": "rosewood",
+     "n": [
+      5
+     ],
+     "wer": "Associated Press, 8 January"
+    },
+    {
+     "text": "line",
+     "sec": "after",
+     "n": [
+      8
+     ],
+     "wer": "Bronson, 17 February"
+    }
+   ]
+  },
+  {
+   "id": "judgement",
+   "titel": "Two judgements",
+   "frage": "How was the destruction of Rosewood judged in 1923?",
+   "note": "A Florida editor found that Levy County's people deserved “no censure” and were “not actually ashamed”; a newspaper in Madras, reprinted by the NAACP, saw a “great blot on American civilization” and those responsible “let go unpunished”. The grand jury in between returned no indictment.",
+   "voices": [
+    {
+     "text": "line",
+     "sec": "after",
+     "n": [
+      6
+     ],
+     "wer": "Palatka Daily News, 10 January"
+    },
+    {
+     "text": "line",
+     "sec": "after",
+     "n": [
+      10
+     ],
+     "wer": "Swarajya (Madras), in The Crisis, June"
+    }
+   ]
+  },
+  {
+   "id": "named",
+   "titel": "Who is named",
+   "frage": "Whom do the reports name, and whom not?",
+   "note": "In 1904 the paper names the victim of the shooting, the lynched man and the two Black men who caught him, but no one in the mob. In 1923 it names the white dead and wounded with their families on the first day, and the first Black victim, James Carrier, only when describing his killing; his killers are “several white men”. The only person ever named as a leader of the mob was named by the NAACP's magazine, not by any court.",
+   "voices": [
+    {
+     "text": "line",
+     "sec": "bronson",
+     "n": [
+      1
+     ],
+     "wer": "Ocala Evening Star, 1904"
+    },
+    {
+     "text": "line",
+     "sec": "rosewood",
+     "n": [
+      4
+     ],
+     "wer": "Associated Press, 6 January 1923"
+    },
+    {
+     "text": "line",
+     "sec": "after",
+     "n": [
+      9
+     ],
+     "wer": "The Crisis, March 1923"
+    }
+   ]
   }
  ]
 }

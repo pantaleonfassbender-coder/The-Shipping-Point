@@ -2,7 +2,7 @@
 
 Williston and its neighbours (Morriston, Montbrook, Bronson), Levy County, Florida, to 1945: a documentary apparatus in English, built from public-domain sources read against the page images — railroads, phosphate, the cucumber trade, the colour line (Rosewood included) and Montbrook Army Air Field. Cedar Key appears only as a point of reference.
 
-**Status:** draft for review, **not yet published**. The site is not linked from elsewhere and asks search engines not to index it (`_headers`, `meta robots`). Comments come in through a Netlify form (`feedback.html`). Six modules are planned; modules 2, *Two railroads* (1886–1907), 3, *Hard rock* (1893–1920), and 4, *The shipping point* (1897–1925), are in place. The source survey is in the project folder (`QUELLENSICHTUNG.md`, not in this repository).
+**Status:** draft for review, **not yet published**. The site is not linked from elsewhere and asks search engines not to index it (`_headers`, `meta robots`). Comments come in through a Netlify form (`feedback.html`). Six modules are planned; modules 2, *Two railroads* (1886–1907), 3, *Hard rock* (1893–1920), 4, *The shipping point* (1897–1925), and 5, *The colour line* (1904–1924), are in place. The source survey is in the project folder (`QUELLENSICHTUNG.md`, not in this repository).
 
 **Companion piece (in preparation):** *A Solid Trainload*.
 

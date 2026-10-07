@@ -134,3 +134,5 @@ form.fb .hp{position:absolute; left:-5000px}
 form.fb button{font:inherit; justify-self:start; background:var(--red); color:#fff; border:0; border-radius:6px; padding:.55rem 1.2rem; cursor:pointer}
 
 .plate figcaption{overflow-wrap:anywhere}
+
+.secplates img{max-height:340px; width:100%; object-fit:cover; object-position:top}

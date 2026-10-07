@@ -103,8 +103,11 @@
    "d": "6 September 1904",
    "side": "colour",
    "titel": "Wash Bradley",
-   "text": "Wash Bradley is lynched at Bronson, the county seat. The NAACP's list of 1919 records the accusation against him as “murder”.",
-   "quelle": "NAACP, Thirty Years of Lynching in the United States, 1889–1918 (1919), p. 55."
+   "text": "Wash Bradley, a Black turpentine worker accused of killing Mrs. N. B. Barrow near Levyville, is tortured and lynched by a mob near Bronson. No one is charged.",
+   "cite": "#/text/line/bronson/1",
+   "citeLabel": "The colour line [1]",
+   "plate": "oes1904_levyville",
+   "quelle": "Ocala Evening Star, 7 September 1904, p. 1; NAACP, Thirty Years of Lynching (1919), p. 55."
   },
   {
    "d": "1907",
@@ -205,6 +208,26 @@
    "citeLabel": "The shipping point [15]",
    "plate": "b175_cover",
    "quelle": "Turlington and Hamilton, Bulletin 175 (1925), pp. 5, 8, 10–11."
+  },
+  {
+   "d": "4–8 January 1923",
+   "side": "colour",
+   "titel": "Rosewood",
+   "text": "Armed white men besiege a house at Rosewood and burn the Black settlement over several days; two white men and, by the official count, six Black residents are killed, among them James Carrier at his family's graves. The survivors flee into the woods.",
+   "cite": "#/text/line/rosewood/3",
+   "citeLabel": "The colour line [3]",
+   "plate": "pdn1923_jan5",
+   "quelle": "Palatka Daily News, 5, 7 and 8 January 1923 (Associated Press)."
+  },
+  {
+   "d": "15 February 1923",
+   "side": "colour",
+   "titel": "No indictment",
+   "text": "A special grand jury at Bronson finds that “sufficient evidence had not been found” to charge anyone for the killings and the burning of Rosewood.",
+   "cite": "#/text/line/after/8",
+   "citeLabel": "The colour line [8]",
+   "plate": "fpnt1923_noindictment",
+   "quelle": "Miami Daily Metropolis, 12 February 1923; Fort Pierce News-Tribune, 20 February 1923."
   }
  ]
 }
