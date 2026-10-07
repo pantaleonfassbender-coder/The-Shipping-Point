@@ -34,8 +34,21 @@
    "d": "1893–1894",
    "side": "rock",
    "titel": "Leased convicts in the pits and camps",
-   "text": "The state's leased convicts are worked in the county: about 160 near Albion, Levy county, mining phosphate, and about fifteen sublet to Colonel H. L. Morris of Morriston for the manufacture of naval stores.",
-   "quelle": "Report of the Commissioner of Agriculture of the State of Florida, 1893–1894, p. 67."
+   "text": "The state's leased convicts are worked in the county: about 160 near Albion, Levy county, mining phosphate, and about fifteen sublet to Colonel H. L. Morris of Morriston for the manufacture of naval stores. Of the state's 614 prisoners at the end of 1894, 512 are Black men.",
+   "cite": "#/text/rock/leased/3",
+   "citeLabel": "Hard rock [3]",
+   "plate": "coa1894_table17",
+   "quelle": "Report of the Commissioner of Agriculture of the State of Florida, 1893–1894, pp. 67, 81."
+  },
+  {
+   "d": "January 1897",
+   "side": "colour",
+   "titel": "“The death roll was twenty one”",
+   "text": "The lessee E. B. Bailey, writing from Albion, reports twenty-one deaths among the convicts in 1895 and nineteen in 1896, three of them killed while escaping or being recaptured; some of the prisoners sent to him are “not thirteen years of age”.",
+   "cite": "#/text/rock/leased/7",
+   "citeLabel": "Hard rock [7]",
+   "plate": "coa1897_bailey",
+   "quelle": "Report of the Commissioner of Agriculture of the State of Florida, 1895–1896, p. 81."
   },
   {
    "d": "2 June 1897",
@@ -56,6 +69,16 @@
    "citeLabel": "Two railroads [8]",
    "plate": "rrc1898_fcp",
    "quelle": "First Annual Report of the Railroad Commission of the State of Florida (1898), pp. 12–13, 43, 86, 94."
+  },
+  {
+   "d": "1899–1900",
+   "side": "rock",
+   "titel": "507 prisoners in the phosphate pits",
+   "text": "Seven of the state's twelve convict camps, with 507 prisoners, mine phosphate; one camp in Levy County, at Elliston, is worked by W. N. Camp of Albion.",
+   "cite": "#/text/rock/leased/9",
+   "citeLabel": "Hard rock [9]",
+   "plate": "coa1900_camps",
+   "quelle": "Report of the Commissioner of Agriculture of the State of Florida, 1899–1900, pp. 47–48."
   },
   {
    "d": "1904",
@@ -83,18 +106,41 @@
   },
   {
    "d": "1914",
-   "side": "rock",
-   "titel": "The export trade breaks",
-   "text": "Florida's hard-rock phosphate falls from 477,538 tons (1913) to 310,267 tons; almost every ton shipped goes abroad. The state's list of phosphate companies opens with the Acme Phosphate Co. of Morriston.",
-   "quelle": "Florida Geological Survey, Seventh Annual Report (1915), pp. 21–22."
-  },
-  {
-   "d": "1914",
    "side": "crop",
    "titel": "“The greatest cucumber industry”",
    "text": "The Seaboard Air Line advertises Williston as the seat of “the greatest cucumber industry in the State of Florida”, shipped “by the trainload” to the northern and western markets, with a photograph of a solid trainload leaving the town.",
    "quelle": "Seaboard Air Line Railway, Shippers Guide 1914, pp. 69–71.",
    "plate": "sal1914_trainload"
+  },
+  {
+   "d": "1914",
+   "side": "rock",
+   "titel": "The export trade breaks",
+   "text": "“Owing to the interruption of European shipment”, Florida's hard-rock phosphate falls from 477,538 tons (1913) to 310,267 tons; almost every ton shipped goes abroad. The state's list of phosphate companies opens with the Acme Phosphate Co. of Morriston.",
+   "cite": "#/text/rock/war/15",
+   "citeLabel": "Hard rock [15]",
+   "plate": "fgs1915_table",
+   "quelle": "Florida Geological Survey, Seventh Annual Report (1915), pp. 20–22."
+  },
+  {
+   "d": "1917",
+   "side": "rock",
+   "titel": "“At low ebb”",
+   "text": "The hard rock fields export 12,403 tons, against 476,898 in 1913; “the export business is cut off”.",
+   "cite": "#/text/rock/war/17",
+   "citeLabel": "Hard rock [17]",
+   "plate": "fgs1918_table",
+   "quelle": "Florida Geological Survey, Tenth and Eleventh Annual Reports (1918), pp. 105–106."
+  },
+  {
+   "d": "April 1920",
+   "side": "rock",
+   "titel": "The Acme pit near Morriston",
+   "text": "Herman Gunter of the state survey photographs the Acme Phosphate Company's pit five miles southwest of Morriston. In 1920 the hard rock fields market 400,249 tons, a “very decided increase”.",
+   "cite": "#/text/rock/war/18",
+   "citeLabel": "Hard rock [18]",
+   "plate": "fm_ge0629",
+   "quelle": "Florida Memory GE0629; Florida Geological Survey, Fourteenth Annual Report (1922), pp. 29–30."
   }
  ]
 }

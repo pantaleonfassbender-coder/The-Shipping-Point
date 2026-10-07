@@ -24,6 +24,7 @@ UA = {"User-Agent": "ShippingPointResearch/1.0 (pantaleonfassbender@gmail.com)"}
 SAL = "https://archive.org/download/seaboardairliner1914seab/page/n84.jpg"   # S. 71
 IAP = "https://archive.org/download/{}/page/n{}.jpg"
 RRC = "FirstAnnualReportOfTheRailroadCommissionOfTheStateOfFlorida"
+COA = "ReportOfTheCommissionerOfAgricultureOfTheStateOfFloridaForPeriod"
 
 PLATES = {
     "sal1914_cucumbers": ("ia", SAL, (478, 75, 925, 553)),
@@ -41,6 +42,15 @@ PLATES = {
     "rrc1898_fcp": ("ia", IAP.format(RRC, 88), (120, 120, 880, 670)),
     "laws1905_williston": ("ia", IAP.format("actsandresoluti03florgoog", 437), (240, 100, 945, 770)),
     "gaz1907_williston": ("ia", IAP.format("floridagazetteer1907rlpo", 419), (20, 350, 985, 890)),
+    # Modul 3: Hard rock (fünfte Zahl: Drehung in Grad vor dem Ausschnitt)
+    "usgs604_map": ("ia", IAP.format("IA41522103_0102", 16), (15, 10, 990, 995)),
+    "usgs604_mine": ("ia", IAP.format("IA41522103_0102", 12), (64, 46, 936, 951, -90)),
+    "usgs604_dredge": ("ia", IAP.format("IA41522103_0102", 116), (68, 64, 936, 965, -90)),
+    "coa1894_table17": ("ia", IAP.format(COA + "_33", 88), (60, 60, 940, 600)),
+    "coa1897_bailey": ("ia", IAP.format(COA + "_604", 76), (60, 40, 960, 610)),
+    "coa1900_camps": ("ia", IAP.format(COA + "_614", 44), (30, 90, 960, 950)),
+    "fgs1915_table": ("ia", IAP.format("annualreportflor71915flor", 25), (30, 672, 1000, 995)),
+    "fgs1918_table": ("ia", IAP.format("annualreportf10111918flor", 127), (40, 410, 980, 860)),
 }
 
 
@@ -82,8 +92,10 @@ def main(ids):
         else:
             im = Image.open(io.BytesIO(fetch(src)))
         if arg:
+            if len(arg) == 5:
+                im = im.rotate(arg[4], expand=True)
             w, h = im.size
-            x0, y0, x1, y1 = arg
+            x0, y0, x1, y1 = arg[:4]
             im = im.crop((w * x0 // 1000, h * y0 // 1000, w * x1 // 1000, h * y1 // 1000))
         save(pid, im)
 

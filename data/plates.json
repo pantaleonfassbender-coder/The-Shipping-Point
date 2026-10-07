@@ -1,6 +1,6 @@
 {
  "lede": "Public-domain photographs and maps of Williston and its neighbours, each with its source. More plates follow with the modules.",
- "credit": "Photographs from the Seaboard Air Line Railway Shippers Guide (1914) and pages of gazetteers, railroad reports, trade papers and the Laws of Florida after the page images of the Internet Archive; the “Standard Guide” map of 1891 and the Sanborn fire-insurance maps of Williston, January 1923, from the Library of Congress (public domain) via Wikimedia Commons; the Plant System map from Poor's Manual (1901) via Wikimedia Commons; photograph of the Acme Phosphate pit from the Florida Geological Survey Collection, State Archives of Florida, Florida Memory (public domain).",
+ "credit": "Photographs from the Seaboard Air Line Railway Shippers Guide (1914) and from U.S. Geological Survey Bulletin 604 (1915), and pages of gazetteers, railroad and geological reports, the state's reports on its convicts, trade papers and the Laws of Florida, after the page images of the Internet Archive; the “Standard Guide” map of 1891 and the Sanborn fire-insurance maps of Williston, January 1923, from the Library of Congress (public domain) via Wikimedia Commons; the Plant System map from Poor's Manual (1901) via Wikimedia Commons; photograph of the Acme Phosphate pit from the Florida Geological Survey Collection, State Archives of Florida, Florida Memory (public domain).",
  "plates": [
   {
    "id": "sal1914_trainload",
@@ -99,6 +99,62 @@
    "titel": "“One of the greatest cucumber districts”",
    "caption": "The Williston entry of 1907–1908 and the beginning of its directory: truck growers, the Bank of Williston, The Williston Advocate.",
    "source": "R. L. Polk & Co.'s Florida Gazetteer and Business Directory 1907–1908, p. 452; Internet Archive floridagazetteer1907rlpo (University of Florida); public domain."
+  },
+  {
+   "id": "usgs604_map",
+   "side": "rock",
+   "titel": "The phosphate deposits of Florida",
+   "caption": "Rock phosphate in a belt from Suwannee County through Alachua, Levy and Marion counties to Citrus and Hernando; land pebble in Polk County.",
+   "source": "G. C. Matson, The Phosphate Deposits of Florida, U.S. Geological Survey Bulletin 604 (1915), plate III; Internet Archive IA41522103_0102; public domain."
+  },
+  {
+   "id": "usgs604_mine",
+   "side": "rock",
+   "titel": "A rock-phosphate mine",
+   "caption": "“General view of rock-phosphate mine”: the pit, the trestle of the tramway, the cars; people at work at the bottom. Photograph by W. L. Martin; the mine is not named.",
+   "source": "G. C. Matson, The Phosphate Deposits of Florida, U.S. Geological Survey Bulletin 604 (1915), plate II; Internet Archive IA41522103_0102; public domain."
+  },
+  {
+   "id": "usgs604_dredge",
+   "side": "rock",
+   "titel": "Mining by dredging",
+   "caption": "“General view of pit in the rock-phosphate region, showing mining by dredging”: the dredge in the flooded pit, the washer and the incline behind. Photograph by W. L. Martin.",
+   "source": "G. C. Matson, The Phosphate Deposits of Florida, U.S. Geological Survey Bulletin 604 (1915), plate XVII; Internet Archive IA41522103_0102; public domain."
+  },
+  {
+   "id": "coa1894_table17",
+   "side": "colour",
+   "titel": "512 of 614",
+   "caption": "Table No. 17: the state's convicts on 31 December 1894 by colour, sex, education and religion.",
+   "source": "Report of the Commissioner of Agriculture of the State of Florida for 1893–1894, p. 81; Internet Archive ReportOfTheCommissionerOfAgricultureOfTheStateOfFloridaForPeriod_33 (State Library and Archives of Florida); public domain."
+  },
+  {
+   "id": "coa1897_bailey",
+   "side": "colour",
+   "titel": "Bailey's letter from Albion, 1897",
+   "caption": "The lessee E. B. Bailey to the Commissioner of Agriculture, 15 January 1897: twenty-one dead in 1895, nineteen in 1896.",
+   "source": "Report of the Commissioner of Agriculture of the State of Florida for 1895–1896, p. 81; Internet Archive ReportOfTheCommissionerOfAgricultureOfTheStateOfFloridaForPeriod_604; public domain."
+  },
+  {
+   "id": "coa1900_camps",
+   "side": "colour",
+   "titel": "The lease of 1897 and the camps",
+   "caption": "The contract of 22 May 1897 with four lessees, among them W. N. Camp of Albion, and the camps of 1899–1900, “Levy county, one at Elliston”.",
+   "source": "Report of the Commissioner of Agriculture of the State of Florida for 1899–1900, p. 47; Internet Archive ReportOfTheCommissionerOfAgricultureOfTheStateOfFloridaForPeriod_614; public domain."
+  },
+  {
+   "id": "fgs1915_table",
+   "side": "rock",
+   "titel": "Production and shipment, 1909–1914",
+   "caption": "The survey's summary table: hard rock exported 496,645 tons in 1909, 303,172 in 1914; shipped for domestic use between 6,517 and 18,745.",
+   "source": "Florida Geological Survey, Seventh Annual Report (1915), p. 22; Internet Archive annualreportflor71915flor; public domain."
+  },
+  {
+   "id": "fgs1918_table",
+   "side": "rock",
+   "titel": "“At low ebb”, 1913–1917",
+   "caption": "Shipments of hard rock 1913–1917: exported 476,898 tons in 1913, 12,403 in 1917.",
+   "source": "Florida Geological Survey, Tenth and Eleventh Annual Reports (1918), p. 106; Internet Archive annualreportf10111918flor; public domain."
   }
  ]
 }

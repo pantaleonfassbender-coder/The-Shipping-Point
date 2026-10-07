@@ -8,6 +8,15 @@
    "quelle": "Florida State Gazetteer 1886; Engineering News 1891; Manufacturers' Record 1893; Florida Railroad Gazetteer 1895; Railroad Commission of Florida 1898; Laws of Florida 1905; Polk's Gazetteer 1907–1908.",
    "datei": "rails",
    "zk": "Archer · Lines · Rates · Town"
+  },
+  {
+   "id": "rock",
+   "side": "rock",
+   "kurz": "3 · Hard rock",
+   "warum": "Phosphate dug by hand in pits around Albion and Morriston, much of it in the 1890s by leased state prisoners, most of them Black, of whom the lessee counted forty dead in two years. Nearly all of it went to Europe, until the war stopped the ships in 1914.",
+   "quelle": "Manufacturers' Record 1893; Reports of the Commissioner of Agriculture of Florida 1893–1902; USGS Bulletin 604 (1915); Florida Geological Survey annual reports 1915–1922.",
+   "datei": "rock",
+   "zk": "Belt · Leased men · Pit · War"
   }
  ],
  "planned": [
@@ -17,13 +26,6 @@
    "kurz": "1 · Before the rails",
    "warum": "Jesse M. Willis, the people he enslaved, and a settlement between Marion and Levy counties; Yulee's Florida Railroad to Cedar Key passes it by. In 1886 Archer, eleven miles off, is its shipping point.",
    "quelle": "Florida State Gazetteer 1886; Ocala Banner 1911; Makers of America 1911."
-  },
-  {
-   "id": "rock",
-   "side": "rock",
-   "kurz": "3 · Hard rock",
-   "warum": "Phosphate around Albion, Morriston and Montbrook, leased convicts in the pits and camps, and the export trade that collapsed in 1914.",
-   "quelle": "Reports of the Commissioner of Agriculture of Florida 1893–1902; Florida Geological Survey annual reports 1909–1924."
   },
   {
    "id": "shipping",

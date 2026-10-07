@@ -132,3 +132,5 @@ form.fb input, form.fb textarea, form.fb select{font:inherit; font-weight:400; p
 form.fb textarea{min-height:10rem}
 form.fb .hp{position:absolute; left:-5000px}
 form.fb button{font:inherit; justify-self:start; background:var(--red); color:#fff; border:0; border-radius:6px; padding:.55rem 1.2rem; cursor:pointer}
+
+.plate figcaption{overflow-wrap:anywhere}

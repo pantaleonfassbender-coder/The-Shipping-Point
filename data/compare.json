@@ -48,6 +48,55 @@
      "wer": "Polk's Gazetteer, 1907–1908"
     }
    ]
+  },
+  {
+   "id": "humane",
+   "titel": "“Humane men” and the death roll",
+   "frage": "How did the officials and the lessee describe the convict camps in Levy County?",
+   "note": "The department wrote in 1895 that the camps were “in charge of sober, reliable and humane men”, and its chaplain found Bailey's camp in Levy County good in every respect. Two years later Bailey himself reported twenty-one dead in 1895 and nineteen in 1896, three of them killed while escaping or being recaptured, and children under thirteen among those sent to him. All three voices are those of the state and the lessee; the prisoners are not heard.",
+   "voices": [
+    {
+     "text": "rock",
+     "sec": "leased",
+     "n": [
+      3,
+      5
+     ],
+     "wer": "Commissioner of Agriculture and chaplain, 1895"
+    },
+    {
+     "text": "rock",
+     "sec": "leased",
+     "n": [
+      7
+     ],
+     "wer": "E. B. Bailey, lessee, 1897"
+    }
+   ]
+  },
+  {
+   "id": "abroad",
+   "titel": "Going to Europe",
+   "frage": "Where did the hard rock go, and what happened when it could not?",
+   "note": "In 1893 a trade correspondent found that only an eighth or a seventh of Florida's phosphate stayed at home, and called it a fact that called “for serious thought”. In 1914 the war in Europe proved him right: the hard rock fields, which sold almost nothing at home, lost most of their trade within a year.",
+   "voices": [
+    {
+     "text": "rock",
+     "sec": "belt",
+     "n": [
+      1
+     ],
+     "wer": "Manufacturers' Record, 1893"
+    },
+    {
+     "text": "rock",
+     "sec": "war",
+     "n": [
+      15
+     ],
+     "wer": "Florida Geological Survey, 1915"
+    }
+   ]
   }
  ]
 }
