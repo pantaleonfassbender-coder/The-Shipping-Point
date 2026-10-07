@@ -10,7 +10,7 @@ Williston and its neighbours (Morriston, Montbrook, Bronson), Levy County, Flori
 
 Static site without a build step: `index.html`, `app.js` (hash routes; engine adapted from *One Bridge, Two Newsreels*), `style.css`, `feedback.html` and `thanks.html` (Netlify Forms), `legal.html`, `_headers`. Data in `data/` (`modules.json`, `timeline.json`, `compare.json`, `plates.json`, later one file per module); plates built with `python tools/make-plates.py`.
 
-Local: `python -m http.server` in the repository, then `http://localhost:8000/`. The comment form only works on Netlify.
+Local: `python -m http.server` in the repository, then `http://localhost:8000/`. The comment form only works on Netlify. Netlify's form detection must be switched on for the site (Forms → Enable form detection); the form is named `feedback`.
 
 ## Licences
 
