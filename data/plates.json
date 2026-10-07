@@ -1,0 +1,41 @@
+{
+ "lede": "Public-domain photographs and maps of Williston and its neighbours, each with its source. More plates follow with the modules.",
+ "credit": "Photographs from the Seaboard Air Line Railway Shippers Guide (1914) after the page images of the Internet Archive; the Sanborn fire-insurance maps of Williston, January 1923, from the Library of Congress (public domain) via Wikimedia Commons; photograph of the Acme Phosphate pit from the Florida Geological Survey Collection, State Archives of Florida, Florida Memory (public domain).",
+ "plates": [
+  {
+   "id": "sal1914_trainload",
+   "side": "crop",
+   "titel": "A solid trainload",
+   "caption": "“Solid trainload of cucumbers leaving Williston, Fla., via the S. A. L. Ry., destined to eastern markets.”",
+   "source": "Seaboard Air Line Railway, Shippers Guide 1914, p. 71; Internet Archive seaboardairliner1914seab."
+  },
+  {
+   "id": "sal1914_cucumbers",
+   "side": "crop",
+   "titel": "Cucumber industry at Williston",
+   "caption": "A field, the harvest in hampers, and a packing place: the railroad's three photographs of the cucumber trade at Williston, published to attract settlers.",
+   "source": "Seaboard Air Line Railway, Shippers Guide 1914, p. 71; Internet Archive seaboardairliner1914seab."
+  },
+  {
+   "id": "fm_ge0629",
+   "side": "rock",
+   "titel": "The Acme pit near Morriston",
+   "caption": "Pit of the Acme Phosphate Company, five miles southwest of Morriston, photographed by Herman Gunter on 21 April 1920.",
+   "source": "State Archives of Florida, Florida Memory, image GE0629, Florida Geological Survey Collection; public domain."
+  },
+  {
+   "id": "sanborn1923_1",
+   "side": "town",
+   "titel": "Williston, January 1923 (sheet 1)",
+   "caption": "The Sanborn fire-insurance map: every building with its material and use, the depots and the tracks.",
+   "source": "Sanborn Map Company, Williston, Levy County, Florida, January 1923, sheet 1; Library of Congress, via Wikimedia Commons; public domain."
+  },
+  {
+   "id": "sanborn1923_2",
+   "side": "town",
+   "titel": "Williston, January 1923 (sheet 2)",
+   "caption": "The second sheet of the Sanborn map of January 1923.",
+   "source": "Sanborn Map Company, Williston, Levy County, Florida, January 1923, sheet 2; Library of Congress, via Wikimedia Commons; public domain."
+  }
+ ]
+}

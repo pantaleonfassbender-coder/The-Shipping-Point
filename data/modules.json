@@ -1,0 +1,77 @@
+{
+ "shipped": [],
+ "planned": [
+  {
+   "id": "before",
+   "side": "town",
+   "kurz": "1 · Before the rails",
+   "warum": "Jesse M. Willis, the people he enslaved, and a settlement between Marion and Levy counties; Yulee's Florida Railroad to Cedar Key passes it by. In 1886 Archer, eleven miles off, is its shipping point.",
+   "quelle": "Florida State Gazetteer 1886; Ocala Banner 1911; Makers of America 1911."
+  },
+  {
+   "id": "rails",
+   "side": "rail",
+   "kurz": "2 · Two railroads",
+   "warum": "The Archer & Dunnellon line of 1891 and the Plant System of 1893 make Williston a station on two roads; the town is incorporated in 1897.",
+   "quelle": "Engineering News 1891; Manufacturers' Record 1893; Florida Railroad Gazetteer 1895; Railroad Commission 1898; Laws of Florida."
+  },
+  {
+   "id": "rock",
+   "side": "rock",
+   "kurz": "3 · Hard rock",
+   "warum": "Phosphate around Albion, Morriston and Montbrook, leased convicts in the pits and camps, and the export trade that collapsed in 1914.",
+   "quelle": "Reports of the Commissioner of Agriculture of Florida 1893–1902; Florida Geological Survey annual reports 1909–1924."
+  },
+  {
+   "id": "shipping",
+   "side": "crop",
+   "kurz": "4 · The shipping point",
+   "warum": "Cucumbers by the carload to New York and the East: commission men, crates, ice and cold storage, and the solid trainloads of the railroad's advertising.",
+   "quelle": "USDA Soil Survey 1904; Seaboard Air Line Shippers Guide 1914; Cammack 1916; Florida newspapers 1907–1919; USDA Bulletin 462 (1917)."
+  },
+  {
+   "id": "line",
+   "side": "colour",
+   "kurz": "5 · The colour line",
+   "warum": "Convict leasing, the lynching of Wash Bradley at Bronson in 1904, and Rosewood in January 1923, from the sources of their time; the missing voices named.",
+   "quelle": "NAACP, Thirty Years of Lynching (1919); Florida newspapers 1902–1923; state reports on convicts."
+  },
+  {
+   "id": "airfield",
+   "side": "air",
+   "kurz": "6 · The airfield",
+   "warum": "Montbrook Army Air Field, 1942–1944: how a war came to a farm town and left again.",
+   "quelle": "Army Air Forces records and newspapers (to be found)."
+  }
+ ],
+ "missing": [
+  {
+   "id": "cedarkey",
+   "side": "town",
+   "kurz": "Cedar Key",
+   "warum": "Its own economic and historical space, older than Williston: port, fishery, cedar for pencils. Not a subject at this stage; it appears only where the rails, timber and work of Williston, Bronson and Rosewood lead there. A later stage “Cedar Key and the coast” remains open.",
+   "quelle": "Seaboard Air Line Shippers Guide 1914 and others."
+  },
+  {
+   "id": "rosewood1993",
+   "side": "colour",
+   "kurz": "The Rosewood report of 1993",
+   "warum": "“A Documented History of the Incident Which Occurred at Rosewood, Florida, in January 1923”, submitted to the Florida Board of Regents on 22 December 1993. It is the guide to the sources of January 1923 but not certainly in the public domain; it is summarized and cited, not printed.",
+   "quelle": "M. D. Jones, L. E. Rivers, D. R. Colburn, R. T. Dye, W. R. Rogers (1993)."
+  },
+  {
+   "id": "seventyfive",
+   "side": "crop",
+   "kurz": "“Seventy-five carloads a day”",
+   "warum": "A figure found only in recent accounts of Williston's cucumber trade. No period source carrying it has been found so far; the period figures are nine cars in a day (1907) and thirteen to twenty cars daily (1919).",
+   "quelle": "Recent local histories."
+  },
+  {
+   "id": "sanborn1930",
+   "side": "town",
+   "kurz": "Sanborn maps of Williston (1930) and Bronson (1924)",
+   "warum": "In the public domain but not yet digitized by the Library of Congress; the map layer starts with the Williston sheets of January 1923.",
+   "quelle": "Library of Congress, Sanborn Maps Collection."
+  }
+ ]
+}

@@ -1,0 +1,41 @@
+{
+ "lede": "Stations read against the page images of their sources only; each names its source. More will follow with the modules.",
+ "stations": [
+  {
+   "d": "1893–1894",
+   "side": "rock",
+   "titel": "Leased convicts in the pits and camps",
+   "text": "The state's leased convicts are worked in the county: about 160 near Albion, Levy county, mining phosphate, and about fifteen sublet to Colonel H. L. Morris of Morriston for the manufacture of naval stores.",
+   "quelle": "Report of the Commissioner of Agriculture of the State of Florida, 1893–1894, p. 67."
+  },
+  {
+   "d": "1904",
+   "side": "crop",
+   "titel": "“The principal money crop”",
+   "text": "A federal soil survey finds that “the principal money crop in the vicinity of Williston is cucumbers”; peanuts are grown to fatten hogs, and the orange groves were lost in 1895.",
+   "quelle": "Rice and Geib, Soil Survey of the Gainesville Area, Florida, in: Field Operations of the Bureau of Soils, 1904, p. 278."
+  },
+  {
+   "d": "6 September 1904",
+   "side": "colour",
+   "titel": "Wash Bradley",
+   "text": "Wash Bradley is lynched at Bronson, the county seat. The NAACP's list of 1919 records the accusation against him as “murder”.",
+   "quelle": "NAACP, Thirty Years of Lynching in the United States, 1889–1918 (1919), p. 55."
+  },
+  {
+   "d": "1914",
+   "side": "rock",
+   "titel": "The export trade breaks",
+   "text": "Florida's hard-rock phosphate falls from 477,538 tons (1913) to 310,267 tons; almost every ton shipped goes abroad. The state's list of phosphate companies opens with the Acme Phosphate Co. of Morriston.",
+   "quelle": "Florida Geological Survey, Seventh Annual Report (1915), pp. 21–22."
+  },
+  {
+   "d": "1914",
+   "side": "crop",
+   "titel": "“The greatest cucumber industry”",
+   "text": "The Seaboard Air Line advertises Williston as the seat of “the greatest cucumber industry in the State of Florida”, shipped “by the trainload” to the northern and western markets, with a photograph of a solid trainload leaving the town.",
+   "quelle": "Seaboard Air Line Railway, Shippers Guide 1914, pp. 69–71.",
+   "plate": "sal1914_trainload"
+  }
+ ]
+}
