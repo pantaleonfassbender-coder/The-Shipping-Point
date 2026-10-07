@@ -1,6 +1,15 @@
 {
  "shipped": [
   {
+   "id": "before",
+   "side": "town",
+   "kurz": "1 · Before the rails",
+   "warum": "A plantation founded in 1853 with “about thirty faithful slaves”, as the town remembered it in 1911; 450 enslaved people counted without names in Levy County in 1860; a railroad to Cedar Key that passed the place by; and in 1886 a settlement of a hundred, eleven miles from its shipping point.",
+   "quelle": "Ocala Banner 1911 (after the Williston Advocate); Florida Railroad Company report 1855; Census of 1860 and its slave schedule; Florida State Gazetteer 1886; USGS Williston sheet 1895.",
+   "datei": "before",
+   "zk": "Plantation · Railroad · County"
+  },
+  {
    "id": "rails",
    "side": "rail",
    "kurz": "2 · Two railroads",
@@ -38,13 +47,6 @@
   }
  ],
  "planned": [
-  {
-   "id": "before",
-   "side": "town",
-   "kurz": "1 · Before the rails",
-   "warum": "Jesse M. Willis, the people he enslaved, and a settlement between Marion and Levy counties; Yulee's Florida Railroad to Cedar Key passes it by. In 1886 Archer, eleven miles off, is its shipping point.",
-   "quelle": "Florida State Gazetteer 1886; Ocala Banner 1911; Makers of America 1911."
-  },
   {
    "id": "airfield",
    "side": "air",
@@ -109,6 +111,20 @@
    "kurz": "The rumours of 1902",
    "warum": "After the murder of Mr. and Mrs. L. B. Lewis south of Bronson in 1902, the Ocala Evening Star reported rumours of lynchings. They are not confirmed and are not in the NAACP's list; they are not printed.",
    "quelle": "Ocala Evening Star, 1 September 1902, p. 2 (OCR only)."
+  },
+  {
+   "id": "willis1860",
+   "side": "colour",
+   "kurz": "The people of the Willis plantation",
+   "warum": "The about thirty people Jesse M. Willis brought in 1853 are not named in any source found so far. Willis has not been found on Levy County's slave schedule of 1860; the Marion County pages and the census of 1870 have not yet been searched.",
+   "quelle": "Census of 1860 (slave schedules) and 1870 (population schedules), Levy and Marion counties."
+  },
+  {
+   "id": "seminole",
+   "side": "town",
+   "kurz": "Before 1842",
+   "warum": "Who lived on the land around Williston before 1853, Seminole history included, is not covered by any source read so far; it is named here so that the apparatus does not begin as if the forest of 1853 had been empty.",
+   "quelle": "To be found."
   }
  ]
 }

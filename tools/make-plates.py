@@ -58,6 +58,10 @@ PLATES = {
     "oes1916_shipping": ("ufdc", "UF00075908/06487/0098.jp2", (564, 63, 712, 275)),
     "let1919_review": ("ufdc", "AA00048605/02171/0290.jp2", (345, 55, 512, 460)),
     "b175_cover": ("ufdc", "UF00026891/00001/00001.jp2", None),
+    # Modul 1: Before the rails
+    "usgs1895_williston": ("local", "../quellen/before/topo/williston1895.png", None),
+    "census1860_levy": ("ia", "https://archive.org/download/populationschedu110unit/page/n484.jpg", (60, 50, 960, 960)),
+    "frr1855_cover": ("ia", "https://archive.org/download/report-to-the-directors-and-stockholders/page/n0.jpg", None),
     # Modul 5: The colour line
     "oes1904_levyville": ("ufdc", "UF00075908/01686/00228.jp2", (557, 126, 686, 440)),
     "naacp1919_florida": ("ia", "https://archive.org/download/thirtyyearsoflyn00nati/page/n58.jpg", (60, 90, 905, 625)),

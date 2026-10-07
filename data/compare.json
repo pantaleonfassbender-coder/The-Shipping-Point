@@ -241,6 +241,54 @@
      "wer": "The Crisis, March 1923"
     }
    ]
+  },
+  {
+   "id": "founding",
+   "titel": "1840 or 1853?",
+   "frage": "When was Williston settled?",
+   "note": "A state gazetteer of 1886 says the place “was first settled in 1840”; the town's own newspaper in 1911 dates its beginning to the fall of 1853 and the arrival of Jesse M. Willis and the people he held in slavery. Neither says where its date comes from.",
+   "voices": [
+    {
+     "text": "before",
+     "sec": "county",
+     "n": [
+      10
+     ],
+     "wer": "Florida State Gazetteer, 1886"
+    },
+    {
+     "text": "before",
+     "sec": "settle",
+     "n": [
+      1
+     ],
+     "wer": "Williston Advocate, 1911"
+    }
+   ]
+  },
+  {
+   "id": "foresight",
+   "titel": "Foreseen in 1855",
+   "frage": "What did the railroad promise, and what came?",
+   "note": "In 1855 the president of the Florida Railroad expected winter vegetables for New York and a great naval store and lumber business. Sixty years later both had come to Williston, by other railroads: the cucumber trains of module 4 and the turpentine and timber camps of modules 3 and 5.",
+   "voices": [
+    {
+     "text": "before",
+     "sec": "road",
+     "n": [
+      5
+     ],
+     "wer": "D. L. Yulee, 1855"
+    },
+    {
+     "text": "shipping",
+     "sec": "trainload",
+     "n": [
+      7
+     ],
+     "wer": "Seaboard Air Line, 1914"
+    }
+   ]
   }
  ]
 }

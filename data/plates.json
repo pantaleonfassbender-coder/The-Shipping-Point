@@ -1,6 +1,6 @@
 {
  "lede": "Public-domain photographs and maps of Williston and its neighbours, each with its source. More plates follow with the modules.",
- "credit": "Photographs from the Seaboard Air Line Railway Shippers Guide (1914), from U.S. Geological Survey Bulletin 604 (1915) and from Florida Agricultural Experiment Station Bulletin 175 (1925); pages of gazetteers, railroad and geological reports, the state's reports on its convicts, trade papers and the Laws of Florida after the page images of the Internet Archive; newspaper pages from the Florida Digital Newspaper Library, University of Florida Digital Collections; the “Standard Guide” map of 1891 and the Sanborn fire-insurance maps of Williston, January 1923, from the Library of Congress (public domain) via Wikimedia Commons; the Plant System map from Poor's Manual (1901) via Wikimedia Commons; photograph of the Acme Phosphate pit from the Florida Geological Survey Collection, State Archives of Florida, Florida Memory (public domain).",
+ "credit": "Photographs from the Seaboard Air Line Railway Shippers Guide (1914), from U.S. Geological Survey Bulletin 604 (1915) and from Florida Agricultural Experiment Station Bulletin 175 (1925); pages of gazetteers, railroad and geological reports, the state's reports on its convicts, trade papers and the Laws of Florida after the page images of the Internet Archive; newspaper pages from the Florida Digital Newspaper Library, University of Florida Digital Collections; the “Standard Guide” map of 1891 and the Sanborn fire-insurance maps of Williston, January 1923, from the Library of Congress (public domain) via Wikimedia Commons; the Plant System map from Poor's Manual (1901) via Wikimedia Commons; the Williston sheet of the U.S. Geological Survey (1895); the slave schedule of 1860 from the National Archives microfilm via the Internet Archive; photograph of the Acme Phosphate pit from the Florida Geological Survey Collection, State Archives of Florida, Florida Memory (public domain).",
  "plates": [
   {
    "id": "sal1914_trainload",
@@ -260,6 +260,27 @@
    "titel": "“India Speaks”, 1923",
    "caption": "The Crisis reprints a comment on Rosewood from the Swarajya of Madras.",
    "source": "The Crisis 26, no. 2 (June 1923), p. 84; Internet Archive sim_crisis_1923-06_26_2; public domain."
+  },
+  {
+   "id": "usgs1895_williston",
+   "side": "town",
+   "titel": "Williston and its neighbours, 1895",
+   "caption": "The U.S. Geological Survey's Williston sheet: Williston, Montbrook, Morriston and “Phosphate” on the Florida Central & Peninsular and its Eagle Mine Branch, the Levy–Marion county line to the east, and the ponds and sinks of the limestone country.",
+   "source": "U.S. Geological Survey, Florida, Williston sheet, 1:62,500, edition of 1895, detail; USGS Historical Topographic Map Collection; public domain."
+  },
+  {
+   "id": "census1860_levy",
+   "side": "colour",
+   "titel": "Levy County, 1 June 1860",
+   "caption": "The first page of the slave schedule of Levy County: owners by name, the people they held by age, sex and colour only.",
+   "source": "Eighth census of the United States, 1860, Schedule 2 (slave inhabitants), Florida, Levy County, p. 1; National Archives microfilm M653, reel 110, via Internet Archive populationschedu110unit; public domain."
+  },
+  {
+   "id": "frr1855_cover",
+   "side": "rail",
+   "titel": "The Florida Railroad, 1855",
+   "caption": "Report to the directors and stockholders of the Florida Railroad Company, July 1855, by its president, David Levy Yulee.",
+   "source": "Report to the Directors and Stockholders of the Florida Railroad Company (Washington 1855), cover; Internet Archive report-to-the-directors-and-stockholders; public domain."
   }
  ]
 }

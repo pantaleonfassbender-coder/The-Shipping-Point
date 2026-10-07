@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 330" role="img" aria-labelledby="bc-t bc-d" font-family="var(--serif)">
+<title id="bc-t">Counted in 1860</title><desc id="bc-d">Census of 1860. Levy County: 1,331 white inhabitants and 450 enslaved, no free people of colour listed. Marion County: 3,294 white, 5,314 enslaved, 1 free person of colour. Levy County in all: 5,767 in 1880 and 6,678 in 1885, by the gazetteer of 1886.</desc>
+<text x="16" y="28" font-size="17" font-weight="bold" fill="var(--ink)">Counted in 1860</text>
+<text x="16" y="48" font-size="13" fill="var(--ink2)">The free and the enslaved in the two counties around Williston, by the federal census of 1860. Each label links to its passage.</text>
+<a href="#/text/before/settle/2"><text x="16" y="100" font-size="13.5" fill="var(--ink)" text-decoration="underline">Levy, 1860</text></a>
+<rect x="150" y="80" width="71" height="30" fill="var(--ink2)"/><rect x="221" y="80" width="24" height="30" fill="var(--colour)"/>
+<text x="251" y="100" font-size="12.5" fill="var(--ink)">1,331 free (white) · 450 enslaved (25%)</text>
+<a href="#/text/before/settle/2"><text x="16" y="156" font-size="13.5" fill="var(--ink)" text-decoration="underline">Marion, 1860</text></a>
+<rect x="150" y="136" width="176" height="30" fill="var(--ink2)"/><rect x="326" y="136" width="283" height="30" fill="var(--colour)"/>
+<text x="615" y="156" font-size="12.5" fill="var(--ink)">3,294 free (white) · 5,314 enslaved (62%)</text>
+<text x="16" y="222" font-size="13.5" fill="var(--ink)">Levy, all</text>
+<rect x="150" y="202" width="308" height="22" fill="var(--town)" opacity=".75"/><a href="#/text/before/county/7"><text x="464" y="218" font-size="12.5" fill="var(--ink)" text-decoration="underline">1880: 5,767</text></a>
+<rect x="150" y="232" width="356" height="22" fill="var(--town)" opacity=".75"/><a href="#/text/before/county/7"><text x="512" y="248" font-size="12.5" fill="var(--ink)" text-decoration="underline">1885: 6,678</text></a>
+<rect x="16" y="300" width="12" height="12" fill="var(--ink2)"/><text x="32" y="310" font-size="12" fill="var(--ink)">free (white)</text><rect x="140" y="300" width="12" height="12" fill="var(--colour)"/><text x="156" y="310" font-size="12" fill="var(--ink)">enslaved, counted without names</text><text x="420" y="310" font-size="12" fill="var(--ink2)">Free people of colour: none listed in Levy, one in Marion.</text>
+</svg>

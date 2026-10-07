@@ -1,6 +1,44 @@
 {
- "lede": "Stations read against the page images of their sources only; each names its source. More will follow with the modules.",
+ "lede": "Stations read against the page images of their sources only; each names its source.",
  "stations": [
+  {
+   "d": "Fall 1853",
+   "side": "town",
+   "titel": "Jesse M. Willis and “about thirty” enslaved people",
+   "text": "By the town's own account of 1911, a Marion County tax collector moves from Ocala into the pine forest with about thirty enslaved people and founds the plantation on which Williston later grows.",
+   "cite": "#/text/before/settle/1",
+   "citeLabel": "Before the rails [1]",
+   "quelle": "Ocala Banner, 3 March 1911, after the Williston Advocate."
+  },
+  {
+   "d": "July 1855",
+   "side": "rail",
+   "titel": "A railroad to Cedar Key",
+   "text": "The Florida Railroad Company's president, David Levy Yulee, lays out the line from Fernandina to Cedar Key and its prospects: Sea Island cotton, timber, naval stores, vegetables for New York.",
+   "cite": "#/text/before/road/4",
+   "citeLabel": "Before the rails [4]",
+   "plate": "frr1855_cover",
+   "quelle": "Report to the Directors and Stockholders of the Florida Railroad Company (1855)."
+  },
+  {
+   "d": "June 1860",
+   "side": "colour",
+   "titel": "450 enslaved people in Levy County",
+   "text": "The census counts 1,331 white and 450 enslaved inhabitants in Levy County; the slave schedule lists the enslaved by age, sex and colour, without names.",
+   "cite": "#/text/before/settle/2",
+   "citeLabel": "Before the rails [2]",
+   "plate": "census1860_levy",
+   "quelle": "Population of the United States in 1860, pp. 51, 53; slave schedule, Levy County."
+  },
+  {
+   "d": "1885",
+   "side": "town",
+   "titel": "Levy County, 6,678 people",
+   "text": "Less than one acre in sixty of the county is under cultivation; Bronson, on the railroad, is the county seat, and “Wilston” one of ten post offices.",
+   "cite": "#/text/before/county/7",
+   "citeLabel": "Before the rails [7]",
+   "quelle": "Florida State Gazetteer 1886–7, p. 269."
+  },
   {
    "d": "1886",
    "side": "rail",

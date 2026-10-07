@@ -1,0 +1,114 @@
+{
+ "titel": "Before the rails",
+ "autor": "The Williston Advocate (1911), the president of the Florida Railroad (1855), the federal census of 1860 and a state gazetteer (1886)",
+ "jahr": "1853–1886",
+ "quelle": "Ocala Banner, 3 March 1911 (after the Williston Advocate). D. L. Yulee, Report to the Directors and Stockholders of the Florida Railroad Company, July 1855 (Washington 1855), pp. 3, 7–8, 30. Population of the United States in 1860 (Washington 1864), pp. 51, 53. Eighth census of the United States, 1860, slave schedules, Florida, Levy County, p. 1 (National Archives microfilm M653, reel 110). Florida State Gazetteer and Business Directory, vol. I, 1886–7, pp. 91, 269, 386, 458. Page images: University of Florida Digital Collections (UF00048734) and Internet Archive (report-to-the-directors-and-stockholders, populationofusin00kennrich, populationschedu110unit, floridastategaze1886sout). All in the public domain.",
+ "hinweis": "Each passage is transcribed from the page image; spelling and punctuation are those of the print. “…” marks an omission; square brackets mark editorial additions, such as the column headings of a census table. The founding story comes from a town newspaper of 1911 and is the town's own memory, not a record of 1853. The people Jesse M. Willis held in slavery appear in it only as his “force”, and in the census only as numbers; none of them is named in any source found so far. Who lived on the land before 1853 is not covered by these sources.",
+ "sections": [
+  {
+   "id": "settle",
+   "titel": "A plantation in the pines (1853–1860)",
+   "blurb": "The town's founding story tells of a Marion County official who came in 1853 with “about thirty faithful slaves”. The census of 1860 counts 450 enslaved people in Levy County and lists them by age, sex and colour, without names.",
+   "plates": [
+    "usgs1895_williston",
+    "census1860_levy"
+   ],
+   "viz": "before-census",
+   "units": [
+    {
+     "n": 1,
+     "pg": "Ocala Banner, 3 March 1911",
+     "titel": "“About thirty faithful slaves”",
+     "orig": "Was Founded by an Ocalian. It may not be generally known that our neighboring city, Williston, was settled by an Ocalian, but such is a fact. The last issue of the Advocate says: In 1853 this community was a vast forest, unnamed and untrammeled by the march of civilization, and unscarred by the axe of industry. In that year Hon. Jesse M. Willis, who was tax collector and assessor of Marion county, moved from Ocala to the present site of this town. He spent the remaining twenty-eight years of his life here, maintaining a large plantation, about two-thirds of which was situated within the present corporate limits. He arrived here with a force of about thirty faithful slaves and immediately began a development which, although it has been slow, has not ceased from the fall of 1853 to the spring of 1911. Mr. Willis chose his location well, for no finer timber ever covered the lands of a southern state, and no better lands were ever sheltered by southern pines, and, with an altitude of ninety feet above sea level, pure water and no stagnant pools, the general health has always been unsurpassed.",
+     "note": "The town's own account of its founding, written by its newspaper fifty-eight years later and reprinted in Ocala. It is the only source found so far for Willis, the date and the plantation. “Faithful slaves” is the language of 1911, in which the people Willis held in bondage appear as his “force” and as loyal; they cleared the forest and worked the plantation on which the town was later built. Their names, and what became of them after emancipation, are not in this source and have not been found in any other (Texts, “Examined and not included”). The account says nothing of who lived on the land before 1853."
+    },
+    {
+     "n": 2,
+     "pg": "Population of the United States in 1860, pp. 51, 53",
+     "titel": "450 people held in slavery",
+     "orig": "State of Florida. Table No. 1.—Population by Age and Sex. White. [Counties; Total, M., F.; Aggregate:] … Levy 696 635 1,331. … Marion 1,796 1,498 3,294. … Slave. … Levy 203 247 450. … Marion 2,689 2,625 5,314. … Aggregate. Total whites 77,747. Total free colored 932. Total slaves 61,745.",
+     "note": "The federal census of 1860, seven years after Willis's arrival. One person in four in Levy County was enslaved; in Marion, the county Willis came from, three in five. The table of free colored inhabitants has no line for Levy. Whether Willis's plantation was counted in Levy or in Marion is not clear: the county line ran only a few miles east of the later town (plate: the map of 1895)."
+    },
+    {
+     "n": 3,
+     "pg": "Census of 1860, slave schedule, Levy County, p. 1",
+     "titel": "Counted without names",
+     "orig": "Schedule 2.—Slave Inhabitants in … in the County of Levy State of Florida, enumerated by me, on the 1st day of June, 1860. … Ass't Marshal. [Columns:] Names of slave owners. Number of slaves. Description: Age. Sex. Color. Fugitives from the State. Number manumitted. Deaf & dumb, blind, insane, or idiotic. No. of slave houses. [First entries:] Margaret Barrow, 1, 37, m, b; 1, 33, f, b; 1, 15, [f], m; 1, 10, [f], m; 1, 4, m, b; 1, ½, [m], m. Thomas C. Love, 1, 58, f, b; … [Foot of the page:] No. of owners, 10. No. of houses, 23.",
+     "note": "The census recorded the owners by name and the people they held only by age, sex and colour (“b” black, “m” mulatto); “[f]” and “[m]” stand for the ditto marks of the form. A child of six months is the sixth person listed under the first owner. The page total of the enslaved is corrected by hand on the image (plate). Jesse M. Willis has not been found on Levy County's pages of the schedule; the Marion County pages have not yet been searched."
+    }
+   ],
+   "zk": "Before the rails, A plantation in the pines"
+  },
+  {
+   "id": "road",
+   "titel": "The road to the Gulf (1855)",
+   "blurb": "Two years after Willis, the president of the Florida Railroad laid out a line from Fernandina to Cedar Key and the business he expected: cotton, timber, naval stores, and vegetables for New York. The line passed the later Williston by.",
+   "plates": [
+    "frr1855_cover"
+   ],
+   "units": [
+    {
+     "n": 4,
+     "pg": "Yulee, Report to the Florida Railroad Company (1855), p. 3",
+     "titel": "Fernandina to Cedar Key",
+     "orig": "To the Directors and Stockholders of the Florida Railroad Company: The work upon your road being expected to commence shortly, I have deemed it advisable to lay before you some views respecting the probable sources of its business. The route of the Florida railroad, or that part which for the present engages the efforts of the company, lies across the peninsula of Florida, from Fernandina, on the Atlantic, in latitude 30° 40′, longitude 81° 37′, to Cedar Key, on the Gulf of Mexico, in latitude 29° 07′, longitude 83° 03′. Its length, as determined by surveys of the United States engineers, will be one hundred and thirty-seven and a half miles. The track of the road will be laid upon an air line between the two terminal points, there being no natural obstacles to interfere with this purpose.",
+     "note": "D. L. Yulee signed as the company's president. The “air line” passed northwest of the later Williston, through Archer and Bronson (module 2, plate: the map of 1891). Cedar Key, the Gulf terminus, is a point of reference here, not a subject (Texts, “Examined and not included”)."
+    },
+    {
+     "n": 5,
+     "pg": "Yulee, Report (1855), pp. 7–8",
+     "titel": "“Garden stuffs … to New York”",
+     "orig": "The soil of the peninsula is very productive, and yields all the richest staples. It produces the long staple, or Sea Island cotton of commerce, over every part of it, with a productiveness surpassing the coasts of South Carolina and Georgia, to which this staple had been before limited; and can supply any quantity of it to which the consumption can ever reach. … It is a fine fruit and vegetable gardening region. Peas, and most other garden stuffs, blossom and bear throughout the winter. The value of this capability, when lines of steamers are established to New York, may be estimated from the fact that the Norfolk steamers carry on some of their trips over two thousand barrels of market stuff to New York, … It has the most valuable forest woods in great abundance—live-oak, red cedar, cypress, and yellow pine of the first quality. The road so crosses the peninsula as to command the transportation business of a great part of the agricultural productions of the best part of it. And as it passes through a finely-timbered country, the naval store and lumber business will furnish large employment throughout the year.",
+     "note": "In 1855 the company's president already foresaw the trade that made Williston forty years later: winter vegetables for the New York market (module 4), timber and naval stores (modules 3 and 5). The cotton he describes was grown by enslaved people; the report speaks of crops and freight, not of the people who would raise them or build the road."
+    },
+    {
+     "n": 6,
+     "pg": "Yulee, Report (1855), p. 30",
+     "titel": "“A profitable investment”",
+     "orig": "Taking into view that the large agricultural productions of one of the finest and most rapidly developing portions of the South must be thrown upon this road; that it will have a large naval store and lumber business throughout its length; … I have no doubt that the enterprise will result in public benefit, and that the road will prove a profitable investment. Respectfully submitted, D. L. Yulee, President Florida Railroad Company.",
+     "note": "The close of the report (plate: its cover)."
+    }
+   ],
+   "zk": "Before the rails, The road to the Gulf"
+  },
+  {
+   "id": "county",
+   "titel": "Levy County, 1885–1886",
+   "blurb": "Thirty years on, a gazetteer describes a thinly settled county: Bronson the county seat on the railroad, Rosewood a cedar station, Williston a settlement of a hundred eleven miles from its shipping point.",
+   "plates": [
+    "map1891_levy"
+   ],
+   "units": [
+    {
+     "n": 7,
+     "pg": "Florida State Gazetteer 1886, p. 269",
+     "titel": "Levy County, 1885",
+     "orig": "Levy County. Population, 1885, 6,678. Bronson, county seat. Post Offices.—Barco, Bronson, Cedar Key, Ellzey, Gore, Gulf Hammock, Levyville, Otter Creek, Rosewood, Wilston. Levy county has an area of 940 square miles, or 601,600 acres. … The number of acres of improved and cultivated lands in the county, according to the census reports of 1885, is 9,590 acres, and there was a total of 499,954 acres assessed for taxes. … The number of votes polled in the county at the 1884 election was 991, of which there were 654 Democratic and 337 Republican. The population of this county in 1880 was 5,767, which, compared with the recent figures, shows an increase of 911. The land surface of this county is principally level, the southern portion being flat pine lands, heavily timbered, most suited to the growth of sugar cane and rice, while the northern portion is productive of field crops, fruits and vegetables.",
+     "note": "“Wilston”: so printed for Williston. Less than one acre in sixty of the county was under cultivation. Who cast the 337 Republican votes of 1884 the gazetteer does not say."
+    },
+    {
+     "n": 8,
+     "pg": "Florida State Gazetteer 1886, p. 91",
+     "titel": "Bronson, on the railroad",
+     "orig": "Bronson. Levy County. Population, 300. C. E. Taylor, postmaster. This is the county seat of Levy, located on the line of the Florida Railway and Navigation Company's railroad, about 18 miles southwest of Gainesville and 200 miles southeast of Tallahassee. Gainesville is the nearest bank. Has a weekly newspaper, one school, Methodist church, cotton gin and four stores, express and telegraph offices, and is a money-order post office; mails daily. Cotton, oranges, syrup and potatoes are the chief shipments. It is an incorporated town, and was first settled in 1866.",
+     "note": "Yulee's road, now the Florida Railway and Navigation Company's, made Bronson the county seat. The weekly newspaper is the Levy County Times (directory under the entry)."
+    },
+    {
+     "n": 9,
+     "pg": "Florida State Gazetteer 1886, p. 386",
+     "titel": "Rosewood, 1886",
+     "orig": "Rosewood. Levy County. Population, 50. C. M. Jacobs, postmaster. First settled in 1855. Situated on the Central Division of the Florida Railway and Navigation Company's railroad, 23 miles southwest of Bronson, the county seat, 10 miles northeast of Cedar Key, the nearest express and telegraph station. Gainesville is the nearest banking point. Has one general store, hotel and Episcopal church. Red cedar is the principal shipment.",
+     "note": "Rosewood thirty-seven years before its destruction (module 5): a station on the same railroad, shipping red cedar. The directory names a postmaster, a hotel keeper, carpenters and clergy; whether the Black families of 1923 or their parents lived there in 1886 it does not show."
+    },
+    {
+     "n": 10,
+     "pg": "Florida State Gazetteer 1886, p. 458",
+     "titel": "“First settled in 1840”",
+     "orig": "Williston. Levy County. Population, 100. J. B. Epperson, postmaster. Was first settled in 1840. Situated 13 miles southeast of Bronson, the county seat, 11 miles southeast of Archer, the shipping point and nearest express station. …",
+     "note": "The full entry is in module 2 (unit 2). The gazetteer's date differs from the Advocate's 1853 (unit 1); neither source says where its date comes from."
+    }
+   ],
+   "zk": "Before the rails, Levy County, 1885–1886"
+  }
+ ]
+}
