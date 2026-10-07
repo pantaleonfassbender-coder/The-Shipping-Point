@@ -77,8 +77,8 @@ function overview() {
     <p class="readable">${esc(O.body)}</p>
   </div></div>
   <h2>${esc(O.have)}</h2>
-  ${D.mods.shipped.length ? `<div class="grid g2">${D.mods.shipped.map(card).join("")}</div>`
-    : `<p class="fine">${esc(O.none)}</p><div class="grid g2">${(D.mods.planned || []).map(m => card(m, true)).join("")}</div>`}
+  ${D.mods.shipped.length ? "" : `<p class="fine">${esc(O.none)}</p>`}
+  <div class="grid g2">${D.mods.shipped.map(m => card(m)).join("")}${(D.mods.planned || []).map(m => card(m, true)).join("")}</div>
   <h2>${esc(O.qs)}</h2>
   <div class="grid g2">${O.q.map(([h, p]) => `<div class="panel"><h3>${esc(h)}</h3><p>${esc(p)}</p></div>`).join("")}</div>`;
 }

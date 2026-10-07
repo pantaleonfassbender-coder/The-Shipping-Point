@@ -1,5 +1,15 @@
 {
- "shipped": [],
+ "shipped": [
+  {
+   "id": "rails",
+   "side": "rail",
+   "kurz": "2 · Two railroads",
+   "warum": "In 1886 Williston's shipping point was Archer, eleven miles off. By 1895 the town was on two railroads, which in 1898 charged the same ten cents a crate; it was incorporated in 1897, and in 1905 the legislature declared the incorporation lawful after the fact.",
+   "quelle": "Florida State Gazetteer 1886; Engineering News 1891; Manufacturers' Record 1893; Florida Railroad Gazetteer 1895; Railroad Commission of Florida 1898; Laws of Florida 1905; Polk's Gazetteer 1907–1908.",
+   "datei": "rails",
+   "zk": "Archer · Lines · Rates · Town"
+  }
+ ],
  "planned": [
   {
    "id": "before",
@@ -7,13 +17,6 @@
    "kurz": "1 · Before the rails",
    "warum": "Jesse M. Willis, the people he enslaved, and a settlement between Marion and Levy counties; Yulee's Florida Railroad to Cedar Key passes it by. In 1886 Archer, eleven miles off, is its shipping point.",
    "quelle": "Florida State Gazetteer 1886; Ocala Banner 1911; Makers of America 1911."
-  },
-  {
-   "id": "rails",
-   "side": "rail",
-   "kurz": "2 · Two railroads",
-   "warum": "The Archer & Dunnellon line of 1891 and the Plant System of 1893 make Williston a station on two roads; the town is incorporated in 1897.",
-   "quelle": "Engineering News 1891; Manufacturers' Record 1893; Florida Railroad Gazetteer 1895; Railroad Commission 1898; Laws of Florida."
   },
   {
    "id": "rock",

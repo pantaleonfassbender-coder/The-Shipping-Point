@@ -2,11 +2,60 @@
  "lede": "Stations read against the page images of their sources only; each names its source. More will follow with the modules.",
  "stations": [
   {
+   "d": "1886",
+   "side": "rail",
+   "titel": "“Archer, the shipping point”",
+   "text": "Williston, population 100 by the gazetteer's count, has one general store, a saw and grist mill and a vegetable crate factory. The nearest railroad, express and telegraph are at Archer, eleven miles off.",
+   "cite": "#/text/rails/archer/2",
+   "citeLabel": "Two railroads [2]",
+   "plate": "map1891_levy",
+   "quelle": "Florida State Gazetteer and Business Directory 1886–7, p. 458."
+  },
+  {
+   "d": "July 1891",
+   "side": "rail",
+   "titel": "About 350 men on the line from Archer",
+   "text": "A trade journal reports about 350 men at work on the railway from Archer to Dunnellon, to be operated by the Florida Central & Peninsular.",
+   "cite": "#/text/rails/lines/3",
+   "citeLabel": "Two railroads [3]",
+   "quelle": "Engineering News, 4 July 1891, p. 20."
+  },
+  {
+   "d": "June 1893",
+   "side": "rail",
+   "titel": "Traffic arrangements between rivals",
+   "text": "The Plant System gives up its own line through the phosphate district near Albion and agrees with the Florida Central & Peninsular on the common use of the spur south of Archer.",
+   "cite": "#/text/rails/lines/4",
+   "citeLabel": "Two railroads [4]",
+   "plate": "mr1893_arrangement",
+   "quelle": "Manufacturers' Record, 30 June 1893, p. 396."
+  },
+  {
    "d": "1893–1894",
    "side": "rock",
    "titel": "Leased convicts in the pits and camps",
    "text": "The state's leased convicts are worked in the county: about 160 near Albion, Levy county, mining phosphate, and about fifteen sublet to Colonel H. L. Morris of Morriston for the manufacture of naval stores.",
    "quelle": "Report of the Commissioner of Agriculture of the State of Florida, 1893–1894, p. 67."
+  },
+  {
+   "d": "2 June 1897",
+   "side": "town",
+   "titel": "The town of Williston",
+   "text": "The act to incorporate the town is approved; the first election is set for the first Tuesday in July. In 1905 the legislature declares the incorporation lawful after the fact.",
+   "cite": "#/text/rails/town/11",
+   "citeLabel": "Two railroads [11]",
+   "plate": "laws1905_williston",
+   "quelle": "Laws of Florida 1905, ch. 5550, p. 870, and ch. 5549, p. 869."
+  },
+  {
+   "d": "1898",
+   "side": "rail",
+   "titel": "Two stations, one rate",
+   "text": "The state's Railroad Commission lists two stations named Williston, one on each road, and the same freight from both: ten cents a crate of vegetables, sixteen a box of oranges. The charge onward to the northern markets is beyond its control.",
+   "cite": "#/text/rails/rates/8",
+   "citeLabel": "Two railroads [8]",
+   "plate": "rrc1898_fcp",
+   "quelle": "First Annual Report of the Railroad Commission of the State of Florida (1898), pp. 12–13, 43, 86, 94."
   },
   {
    "d": "1904",
@@ -21,6 +70,16 @@
    "titel": "Wash Bradley",
    "text": "Wash Bradley is lynched at Bronson, the county seat. The NAACP's list of 1919 records the accusation against him as “murder”.",
    "quelle": "NAACP, Thirty Years of Lynching in the United States, 1889–1918 (1919), p. 55."
+  },
+  {
+   "d": "1907",
+   "side": "crop",
+   "titel": "“One of the greatest cucumber districts”",
+   "text": "Williston is an incorporated town on the Seaboard Air Line and the Atlantic Coast Line, with a bank, two hotels, a crate factory and a weekly paper.",
+   "cite": "#/text/rails/town/13",
+   "citeLabel": "Two railroads [13]",
+   "plate": "gaz1907_williston",
+   "quelle": "R. L. Polk & Co.'s Florida Gazetteer and Business Directory 1907–1908, p. 452."
   },
   {
    "d": "1914",

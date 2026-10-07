@@ -4,7 +4,7 @@
     python tools/make-plates.py sanborn1923_1
 
 Quellen: "ia" = Seitenbild des Internet Archive mit Ausschnitt in Promille (x0, y0, x1, y1);
-"commons" = Datei auf Wikimedia Commons; "local" = Datei im Ordner ../quellen (etwa von Florida Memory,
+"commons" = Datei auf Wikimedia Commons (2400 px; "commonsfull" in voller Größe); "local" = Datei im Ordner ../quellen (etwa von Florida Memory,
 dessen Seiten keine automatischen Abrufe zulassen und die deshalb von Hand geladen werden).
 """
 import io
@@ -16,10 +16,14 @@ from pathlib import Path
 
 from PIL import Image
 
+Image.MAX_IMAGE_PIXELS = None
+
 ROOT = Path(__file__).resolve().parent.parent
 DEST = ROOT / "assets" / "plates"
 UA = {"User-Agent": "ShippingPointResearch/1.0 (pantaleonfassbender@gmail.com)"}
 SAL = "https://archive.org/download/seaboardairliner1914seab/page/n84.jpg"   # S. 71
+IAP = "https://archive.org/download/{}/page/n{}.jpg"
+RRC = "FirstAnnualReportOfTheRailroadCommissionOfTheStateOfFlorida"
 
 PLATES = {
     "sal1914_cucumbers": ("ia", SAL, (478, 75, 925, 553)),
@@ -27,6 +31,16 @@ PLATES = {
     "sanborn1923_1": ("commons", "File:Sanborn Fire Insurance Map from Williston, Levy County, Florida, 1923, Plate 0001.jpg", None),
     "sanborn1923_2": ("commons", "File:Sanborn Fire Insurance Map from Williston, Levy County, Florida, 1923, Plate 0002.jpg", None),
     "fm_ge0629": ("local", "../quellen/florida-memory/GE0629.jpg", None),
+    # Modul 2: Two railroads
+    "map1891_levy": ("commonsfull", 'File:"Standard guide" map of the state of Florida. LOC 2003627029.jpg', (267, 203, 555, 322)),
+    "poor1901_plant": ("commons", "File:1901 Poor's Plant System.jpg", (427, 372, 736, 551)),
+    "gaz1886_williston": ("ia", IAP.format("floridastategaze1886sout", 471), (20, 115, 515, 945)),
+    "mr1893_arrangement": ("ia", IAP.format("sim_site-selection_1893-06-30_23_22", 5), (288, 527, 500, 846)),
+    "gaz1895_williston": ("ia", IAP.format("floridarailroadg1895beld", 278), (15, 220, 503, 610)),
+    "rrc1898_plant": ("ia", IAP.format(RRC, 80), (100, 120, 870, 870)),
+    "rrc1898_fcp": ("ia", IAP.format(RRC, 88), (120, 120, 880, 670)),
+    "laws1905_williston": ("ia", IAP.format("actsandresoluti03florgoog", 437), (240, 100, 945, 770)),
+    "gaz1907_williston": ("ia", IAP.format("floridagazetteer1907rlpo", 419), (20, 350, 985, 890)),
 }
 
 
@@ -35,11 +49,11 @@ def fetch(url):
         return r.read()
 
 
-def commons(title):
+def commons(title, full=False):
     u = "https://commons.wikimedia.org/w/api.php?" + urllib.parse.urlencode(
         {"action": "query", "titles": title, "prop": "imageinfo", "iiprop": "url", "iiurlwidth": 2400, "format": "json"})
     ii = next(iter(json.loads(fetch(u))["query"]["pages"].values()))["imageinfo"][0]
-    return Image.open(io.BytesIO(fetch(ii.get("thumburl") or ii["url"])))
+    return Image.open(io.BytesIO(fetch(ii["url"] if full else (ii.get("thumburl") or ii["url"]))))
 
 
 def save(pid, im):
@@ -63,8 +77,8 @@ def main(ids):
                 print(pid, "fehlt noch:", path)
                 continue
             im = Image.open(path)
-        elif kind == "commons":
-            im = commons(src)
+        elif kind in ("commons", "commonsfull"):
+            im = commons(src, kind == "commonsfull")
         else:
             im = Image.open(io.BytesIO(fetch(src)))
         if arg:

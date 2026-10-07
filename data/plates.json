@@ -1,6 +1,6 @@
 {
  "lede": "Public-domain photographs and maps of Williston and its neighbours, each with its source. More plates follow with the modules.",
- "credit": "Photographs from the Seaboard Air Line Railway Shippers Guide (1914) after the page images of the Internet Archive; the Sanborn fire-insurance maps of Williston, January 1923, from the Library of Congress (public domain) via Wikimedia Commons; photograph of the Acme Phosphate pit from the Florida Geological Survey Collection, State Archives of Florida, Florida Memory (public domain).",
+ "credit": "Photographs from the Seaboard Air Line Railway Shippers Guide (1914) and pages of gazetteers, railroad reports, trade papers and the Laws of Florida after the page images of the Internet Archive; the “Standard Guide” map of 1891 and the Sanborn fire-insurance maps of Williston, January 1923, from the Library of Congress (public domain) via Wikimedia Commons; the Plant System map from Poor's Manual (1901) via Wikimedia Commons; photograph of the Acme Phosphate pit from the Florida Geological Survey Collection, State Archives of Florida, Florida Memory (public domain).",
  "plates": [
   {
    "id": "sal1914_trainload",
@@ -36,6 +36,69 @@
    "titel": "Williston, January 1923 (sheet 2)",
    "caption": "The second sheet of the Sanborn map of January 1923.",
    "source": "Sanborn Map Company, Williston, Levy County, Florida, January 1923, sheet 2; Library of Congress, via Wikimedia Commons; public domain."
+  },
+  {
+   "id": "map1891_levy",
+   "side": "rail",
+   "titel": "Williston without a railroad, 1891",
+   "caption": "Levy County on the “Standard Guide” map of Florida, 1891: the Florida Central & Peninsular runs from Gainesville through Archer and Bronson to Cedar Key; Williston, east of it, has no line yet. Rosewood is a station near the coast.",
+   "source": "“Standard Guide” Map of the State of Florida (Buffalo: Matthews-Northrup & Co. for the Jacksonville, Tampa & Key West System, 1891), detail; Library of Congress, Geography and Map Division, 2003627029, via Wikimedia Commons; public domain."
+  },
+  {
+   "id": "gaz1886_williston",
+   "side": "town",
+   "titel": "“Archer, the shipping point”",
+   "caption": "The Williston entry of 1886, with the lists of growers by acreage.",
+   "source": "Florida State Gazetteer and Business Directory, vol. I, 1886–7, p. 458; Internet Archive floridastategaze1886sout (University of Florida); public domain."
+  },
+  {
+   "id": "mr1893_arrangement",
+   "side": "rail",
+   "titel": "Traffic arrangements, 1893",
+   "caption": "The Plant System gives up its own line through the Albion district for the common use of its rival's spur south of Archer.",
+   "source": "Manufacturers' Record 23, no. 22, 30 June 1893, p. 396, column 2; Internet Archive sim_site-selection_1893-06-30_23_22; public domain."
+  },
+  {
+   "id": "poor1901_plant",
+   "side": "rail",
+   "titel": "On the Plant System, 1901",
+   "caption": "Archer, Williston, Morriston and Juliette on the map of the Plant System in Poor's Manual, 1901 (schematic, detail).",
+   "source": "Poor's Manual of the Railroads of the United States 1901, p. 361, detail; via Wikimedia Commons (“1901 Poor's Plant System.jpg”); public domain."
+  },
+  {
+   "id": "gaz1895_williston",
+   "side": "town",
+   "titel": "On two roads, 1895",
+   "caption": "“On F C & P R R and S F div of S F & W R R”: the Williston entry of 1895, with J. B. Epperson's offer of town lots and vegetable land.",
+   "source": "Florida Railroad Gazetteer and State Business Directory 1895, p. 273; Internet Archive floridarailroadg1895beld (University of Florida); public domain."
+  },
+  {
+   "id": "rrc1898_plant",
+   "side": "rail",
+   "titel": "The Plant System's rates, 1898",
+   "caption": "Rates to High Springs “for beyond”: Williston, station 14, ten cents a crate of vegetables and sixteen a box of oranges.",
+   "source": "First Annual Report of the Railroad Commission of the State of Florida (1898), p. 86; Internet Archive FirstAnnualReportOfTheRailroadCommissionOfTheStateOfFlorida (State Library and Archives of Florida); public domain."
+  },
+  {
+   "id": "rrc1898_fcp",
+   "side": "rail",
+   "titel": "The FC&P's rates, 1898",
+   "caption": "The Eagle Mine Branch of the Florida Central & Peninsular: Williston, station 17, the same ten and sixteen cents.",
+   "source": "First Annual Report of the Railroad Commission of the State of Florida (1898), p. 94; Internet Archive FirstAnnualReportOfTheRailroadCommissionOfTheStateOfFlorida; public domain."
+  },
+  {
+   "id": "laws1905_williston",
+   "side": "town",
+   "titel": "Incorporated 2 June 1897",
+   "caption": "Chapter 5550 of 1905, amending the act to incorporate the town of Williston of 2 June 1897: the first election, its inspectors and the registration of voters.",
+   "source": "Laws of Florida 1905, ch. 5550, p. 870; Internet Archive actsandresoluti03florgoog (digitized by Google); public domain."
+  },
+  {
+   "id": "gaz1907_williston",
+   "side": "crop",
+   "titel": "“One of the greatest cucumber districts”",
+   "caption": "The Williston entry of 1907–1908 and the beginning of its directory: truck growers, the Bank of Williston, The Williston Advocate.",
+   "source": "R. L. Polk & Co.'s Florida Gazetteer and Business Directory 1907–1908, p. 452; Internet Archive floridagazetteer1907rlpo (University of Florida); public domain."
   }
  ]
 }

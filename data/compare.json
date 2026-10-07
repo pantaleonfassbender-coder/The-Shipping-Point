@@ -1,4 +1,53 @@
 {
  "lede": "Where the sources speak about the same thing, their voices stand side by side.",
- "pairs": []
+ "pairs": [
+  {
+   "id": "onerate",
+   "titel": "One rate on two roads",
+   "frage": "What did it cost to send a crate of vegetables from Williston in 1898, and did it matter which railroad one chose?",
+   "note": "Both tables give Williston the same rates: ten cents a crate of vegetables and sixteen a box of oranges, on the Plant System to High Springs and on the Florida Central & Peninsular to Jacksonville, Fernandina, Yulee or Baldwin, each “for beyond”. The state commission set them by the mile; the charge onward to the northern markets was not in its power.",
+   "voices": [
+    {
+     "text": "rails",
+     "sec": "rates",
+     "n": [
+      7
+     ],
+     "wer": "Railroad Commission, Plant System table"
+    },
+    {
+     "text": "rails",
+     "sec": "rates",
+     "n": [
+      8
+     ],
+     "wer": "Railroad Commission, FC&P table"
+    }
+   ]
+  },
+  {
+   "id": "shippingpoint",
+   "titel": "Where is the shipping point?",
+   "frage": "How did the gazetteers describe Williston before and after the railroads?",
+   "note": "In 1886 Archer is the shipping point and Williston has one general store; in 1907 Williston is an incorporated town on two railroads, with a bank, two hotels and a newspaper, and “one of the greatest cucumber districts in the state”. Both entries were supplied for commercial directories and read like advertisements; the populations they give, 100 and 200, are claims, not counts.",
+   "voices": [
+    {
+     "text": "rails",
+     "sec": "archer",
+     "n": [
+      2
+     ],
+     "wer": "Florida State Gazetteer, 1886"
+    },
+    {
+     "text": "rails",
+     "sec": "town",
+     "n": [
+      13
+     ],
+     "wer": "Polk's Gazetteer, 1907–1908"
+    }
+   ]
+  }
+ ]
 }
