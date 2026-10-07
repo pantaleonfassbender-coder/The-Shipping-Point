@@ -58,6 +58,15 @@ PLATES = {
     "oes1916_shipping": ("ufdc", "UF00075908/06487/0098.jp2", (564, 63, 712, 275)),
     "let1919_review": ("ufdc", "AA00048605/02171/0290.jp2", (345, 55, 512, 460)),
     "b175_cover": ("ufdc", "UF00026891/00001/00001.jp2", None),
+    # Modul 6: The airfield (Ausschnitte aus den Ausgaben-PDF, quellen/air/plates)
+    "air1942_work": ("local", "../quellen/air/plates/air1942_work.png", None),
+    "air1942_letter": ("local", "../quellen/air/plates/air1942_letter.png", None),
+    "air1943_otu": ("local", "../quellen/air/plates/air1943_otu.png", None),
+    "air1943_redcross": ("local", "../quellen/air/plates/air1943_redcross.png", None),
+    "bct1944_fields": ("local", "../quellen/air/plates/bct1944_fields.png", None),
+    "air1946_surplus": ("local", "../quellen/air/plates/air1946_surplus.png", None),
+    "air1947_auction": ("local", "../quellen/air/plates/air1947_auction.png", None),
+    "usgs1969_airport": ("local", "../quellen/air/plates/usgs1969_airport.png", None),
     # Modul 1: Before the rails
     "usgs1895_williston": ("local", "../quellen/before/topo/williston1895.png", None),
     "census1860_levy": ("ia", "https://archive.org/download/populationschedu110unit/page/n484.jpg", (60, 50, 960, 960)),

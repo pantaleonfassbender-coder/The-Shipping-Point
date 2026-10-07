@@ -266,6 +266,46 @@
    "citeLabel": "The colour line [8]",
    "plate": "fpnt1923_noindictment",
    "quelle": "Miami Daily Metropolis, 12 February 1923; Fort Pierce News-Tribune, 20 February 1923."
+  },
+  {
+   "d": "August 1942",
+   "side": "air",
+   "titel": "Montbrook Airfield",
+   "text": "Work begins south of Williston on an airfield for the U.S. Army; the county closes its roads across land “being acquired by the government”.",
+   "cite": "#/text/airfield/build/1",
+   "citeLabel": "The airfield [1]",
+   "plate": "air1942_work",
+   "quelle": "Levy County Journal, 20 August and 17 September 1942."
+  },
+  {
+   "d": "May 1943",
+   "side": "air",
+   "titel": "The 99th Bomb Squadron",
+   "text": "The field is an “OTU site”, a training base for bomber crews; its 99th Bomb Squadron gives to the county's Red Cross war fund.",
+   "cite": "#/text/airfield/field/5",
+   "citeLabel": "The airfield [5]",
+   "plate": "air1943_redcross",
+   "quelle": "Levy County Journal, 29 April and 13 May 1943."
+  },
+  {
+   "d": "July 1946",
+   "side": "air",
+   "titel": "Surplus",
+   "text": "The War Assets Administration declares the Montbrook Army Airfield surplus and lets the town operate it.",
+   "cite": "#/text/airfield/after/8",
+   "citeLabel": "The airfield [8]",
+   "plate": "air1946_surplus",
+   "quelle": "Levy County Journal, 25 July 1946."
+  },
+  {
+   "d": "April 1947",
+   "side": "air",
+   "titel": "Forty-two buildings at auction",
+   "text": "The City of Williston buys the field, sells its buildings and keeps the runways and over nine hundred acres.",
+   "cite": "#/text/airfield/after/9",
+   "citeLabel": "The airfield [9]",
+   "plate": "air1947_auction",
+   "quelle": "Levy County Journal, 20 March 1947."
   }
  ]
 }

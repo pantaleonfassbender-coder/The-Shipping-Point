@@ -289,6 +289,62 @@
      "wer": "Seaboard Air Line, 1914"
     }
    ]
+  },
+  {
+   "id": "land",
+   "titel": "The land, taken and sold",
+   "frage": "What happened to the land of the airfield?",
+   "note": "In 1942–43 the government acquired the land south of Williston “by virtue of negotiation, or other appropriate action of Condemnation”; in 1947 the town bought the field, sold the buildings and kept over nine hundred acres with the runways. In between, the county paper notes one family whose house “had to be torn down”.",
+   "voices": [
+    {
+     "text": "airfield",
+     "sec": "build",
+     "n": [
+      4
+     ],
+     "wer": "County commission, 1943"
+    },
+    {
+     "text": "airfield",
+     "sec": "build",
+     "n": [
+      3
+     ],
+     "wer": "Levy County Journal, 1942"
+    },
+    {
+     "text": "airfield",
+     "sec": "after",
+     "n": [
+      9
+     ],
+     "wer": "Levy County Journal, 1947"
+    }
+   ]
+  },
+  {
+   "id": "boom",
+   "titel": "Booms from outside",
+   "frage": "How did the town greet the great outside investments?",
+   "note": "The pattern recurs: in 1855 the president of the Florida Railroad promised “public benefit” and a profitable investment; in 1942 the county paper trusted that the airfield would be “a real help to the county”. In both cases the decision was taken elsewhere, and the land and the labour came from the county.",
+   "voices": [
+    {
+     "text": "before",
+     "sec": "road",
+     "n": [
+      6
+     ],
+     "wer": "Florida Railroad, 1855"
+    },
+    {
+     "text": "airfield",
+     "sec": "build",
+     "n": [
+      1
+     ],
+     "wer": "Levy County Journal, 1942"
+    }
+   ]
   }
  ]
 }

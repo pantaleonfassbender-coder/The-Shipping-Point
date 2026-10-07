@@ -44,17 +44,18 @@
    "quelle": "Ocala Evening Star 1904; NAACP, Thirty Years of Lynching (1919); Palatka Daily News, January 1923; Miami Daily Metropolis and Fort Pierce News-Tribune, February 1923; The Crisis 1923; Palm Beach Post 1924.",
    "datei": "line",
    "zk": "Bronson 1904 · Rosewood 1923 · No indictment"
-  }
- ],
- "planned": [
+  },
   {
    "id": "airfield",
    "side": "air",
    "kurz": "6 · The airfield",
-   "warum": "Montbrook Army Air Field, 1942–1944: how a war came to a farm town and left again.",
-   "quelle": "Army Air Forces records and newspapers (to be found)."
+   "warum": "In August 1942 the Army began an airfield south of Williston on land bought or condemned; one family's house was torn down. Bomb squadrons trained there, one field among dozens in wartime Florida. In 1947 the town bought it, sold forty-two buildings at auction and kept the runways.",
+   "quelle": "Levy County Journal 1942–1947 (every issue July 1942 – December 1945 searched); Bradford County Telegraph 1944; USGS Morriston sheet 1969.",
+   "datei": "airfield",
+   "zk": "Building · At war · Surplus"
   }
  ],
+ "planned": [],
  "missing": [
   {
    "id": "cedarkey",
@@ -125,6 +126,13 @@
    "kurz": "Before 1842",
    "warum": "Who lived on the land around Williston before 1853, Seminole history included, is not covered by any source read so far; it is named here so that the apparatus does not begin as if the forest of 1853 had been empty.",
    "quelle": "To be found."
+  },
+  {
+   "id": "aafrecords",
+   "side": "air",
+   "kurz": "The Army's records of the field",
+   "warum": "Station and unit histories of the Army Air Forces would cover the Montbrook Army Air Field. As federal records they are in the public domain, but they have not been found or read yet. They would show who built the field and worked there, Black and white, how many served, and when training ended; the county paper does not.",
+   "quelle": "Federal records of the Army Air Forces (to be found)."
   }
  ]
 }

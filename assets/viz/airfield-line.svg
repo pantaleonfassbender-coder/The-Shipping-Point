@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 300" role="img" aria-labelledby="al-t al-d" font-family="var(--serif)">
+<title id="al-t">Five years of an airfield</title><desc id="al-d">August 1942: work begins. September and October 1942: roads closed, land acquired, a house torn down. April 1943: the OTU site, land taken by negotiation or condemnation. May 1943: 99th Bomb Squadron. April 1944: a school squadron, mentioned as former. No report of the end of training found. July 1946: declared surplus. March and April 1947: bought by the town, 42 buildings auctioned.</desc>
+<text x="16" y="28" font-size="17" font-weight="bold" fill="var(--ink)">Five years of an airfield</text>
+<text x="16" y="48" font-size="13" fill="var(--ink2)">The Montbrook Army Air Field in the Levy County Journal. Each label links to its passage.</text>
+<line x1="50" y1="210" x2="860" y2="210" stroke="var(--ink2)"/>
+<line x1="132" y1="206" x2="132" y2="214" stroke="var(--ink2)"/><text x="132" y="230" font-size="12" text-anchor="middle" fill="var(--ink2)">1943</text>
+<line x1="297" y1="206" x2="297" y2="214" stroke="var(--ink2)"/><text x="297" y="230" font-size="12" text-anchor="middle" fill="var(--ink2)">1944</text>
+<line x1="462" y1="206" x2="462" y2="214" stroke="var(--ink2)"/><text x="462" y="230" font-size="12" text-anchor="middle" fill="var(--ink2)">1945</text>
+<line x1="627" y1="206" x2="627" y2="214" stroke="var(--ink2)"/><text x="627" y="230" font-size="12" text-anchor="middle" fill="var(--ink2)">1946</text>
+<line x1="791" y1="206" x2="791" y2="214" stroke="var(--ink2)"/><text x="791" y="230" font-size="12" text-anchor="middle" fill="var(--ink2)">1947</text>
+<rect x="64" y="198" width="288" height="12" fill="var(--air)" opacity=".7"/>
+<rect x="352" y="198" width="357" height="12" fill="none" stroke="var(--air)" stroke-dasharray="4 4"/>
+<text x="531" y="250" font-size="11.5" text-anchor="middle" fill="var(--ink2)">no report of the end of training found</text>
+<line x1="71" y1="84" x2="71" y2="198" stroke="var(--line)"/><circle cx="71" cy="204" r="3.5" fill="var(--air)"/><a href="#/text/airfield/build/1"><text x="75" y="80" font-size="12" text-anchor="start" fill="var(--ink)" text-decoration="underline">Aug. 1942: work begins</text></a>
+<line x1="80" y1="104" x2="80" y2="198" stroke="var(--line)"/><circle cx="80" cy="204" r="3.5" fill="var(--air)"/><a href="#/text/airfield/build/2"><text x="84" y="100" font-size="12" text-anchor="start" fill="var(--ink)" text-decoration="underline">Sept. 1942: roads closed</text></a>
+<line x1="97" y1="124" x2="97" y2="198" stroke="var(--line)"/><circle cx="97" cy="204" r="3.5" fill="var(--air)"/><a href="#/text/airfield/build/3"><text x="101" y="120" font-size="12" text-anchor="start" fill="var(--ink)" text-decoration="underline">Oct. 1942: a house torn down</text></a>
+<line x1="176" y1="144" x2="176" y2="198" stroke="var(--line)"/><circle cx="176" cy="204" r="3.5" fill="var(--air)"/><a href="#/text/airfield/build/4"><text x="180" y="140" font-size="12" text-anchor="start" fill="var(--ink)" text-decoration="underline">Apr. 1943: “OTU site”, condemnation</text></a>
+<line x1="193" y1="164" x2="193" y2="198" stroke="var(--line)"/><circle cx="193" cy="204" r="3.5" fill="var(--air)"/><a href="#/text/airfield/field/5"><text x="197" y="160" font-size="12" text-anchor="start" fill="var(--ink)" text-decoration="underline">May 1943: 99th Bomb Squadron</text></a>
+<line x1="341" y1="184" x2="341" y2="198" stroke="var(--line)"/><circle cx="341" cy="204" r="3.5" fill="var(--air)"/><a href="#/text/airfield/field/6"><text x="345" y="180" font-size="12" text-anchor="start" fill="var(--ink)" text-decoration="underline">Apr. 1944: “formerly” 1160th School Sq.</text></a>
+<line x1="720" y1="124" x2="720" y2="198" stroke="var(--line)"/><circle cx="720" cy="204" r="3.5" fill="var(--air)"/><a href="#/text/airfield/after/8"><text x="716" y="120" font-size="12" text-anchor="end" fill="var(--ink)" text-decoration="underline">July 1946: surplus</text></a>
+<line x1="827" y1="154" x2="827" y2="198" stroke="var(--line)"/><circle cx="827" cy="204" r="3.5" fill="var(--air)"/><a href="#/text/airfield/after/9"><text x="823" y="150" font-size="12" text-anchor="end" fill="var(--ink)" text-decoration="underline">Mar.–Apr. 1947: bought, 42 buildings sold</text></a>
+</svg>
