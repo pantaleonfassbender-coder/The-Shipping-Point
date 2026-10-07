@@ -61,6 +61,16 @@
    "quelle": "Laws of Florida 1905, ch. 5550, p. 870, and ch. 5549, p. 869."
   },
   {
+   "d": "June 1897",
+   "side": "crop",
+   "titel": "“$20,000 for Cukes”",
+   "text": "In the season of 1897 the country around Williston grows 20,000 crates of cucumbers, worth $20,000 net to the growers.",
+   "cite": "#/text/shipping/first/1",
+   "citeLabel": "The shipping point [1]",
+   "plate": "oes1897_cukes",
+   "quelle": "Ocala Evening Star, 16 June 1897, p. 1."
+  },
+  {
    "d": "1898",
    "side": "rail",
    "titel": "Two stations, one rate",
@@ -84,8 +94,10 @@
    "d": "1904",
    "side": "crop",
    "titel": "“The principal money crop”",
-   "text": "A federal soil survey finds that “the principal money crop in the vicinity of Williston is cucumbers”; peanuts are grown to fatten hogs, and the orange groves were lost in 1895.",
-   "quelle": "Rice and Geib, Soil Survey of the Gainesville Area, Florida, in: Field Operations of the Bureau of Soils, 1904, p. 278."
+   "text": "A federal soil survey finds that “the principal money crop in the vicinity of Williston is cucumbers”; peanuts are grown to fatten hogs, and the orange groves were lost in 1895. Day wages in the area are 75 cents.",
+   "cite": "#/text/shipping/first/2",
+   "citeLabel": "The shipping point [2]",
+   "quelle": "Rice and Geib, Soil Survey of the Gainesville Area, Florida, in: Field Operations of the Bureau of Soils, 1904, pp. 278, 287."
   },
   {
    "d": "6 September 1904",
@@ -105,12 +117,24 @@
    "quelle": "R. L. Polk & Co.'s Florida Gazetteer and Business Directory 1907–1908, p. 452."
   },
   {
-   "d": "1914",
+   "d": "July 1907",
    "side": "crop",
-   "titel": "“The greatest cucumber industry”",
-   "text": "The Seaboard Air Line advertises Williston as the seat of “the greatest cucumber industry in the State of Florida”, shipped “by the trainload” to the northern and western markets, with a photograph of a solid trainload leaving the town.",
-   "quelle": "Seaboard Air Line Railway, Shippers Guide 1914, pp. 69–71.",
-   "plate": "sal1914_trainload"
+   "titel": "Nine cars in one day",
+   "text": "A county commissioner tells of nine cars of cucumbers shipped from Williston in one day and $29,000 received in a week.",
+   "cite": "#/text/shipping/first/5",
+   "citeLabel": "The shipping point [5]",
+   "plate": "oes1907_bank",
+   "quelle": "Ocala Evening Star, 12 July 1907, p. 2."
+  },
+  {
+   "d": "June 1910",
+   "side": "crop",
+   "titel": "Twenty-two cars a day",
+   "text": "At the height of the season Williston ships 22 cars of cucumbers a day, from about 435 acres.",
+   "cite": "#/text/shipping/trainload/6",
+   "citeLabel": "The shipping point [6]",
+   "plate": "fir1910_cukes",
+   "quelle": "Florida's Financial and Industrial Record, 18 June 1910, p. 12."
   },
   {
    "d": "1914",
@@ -123,6 +147,26 @@
    "quelle": "Florida Geological Survey, Seventh Annual Report (1915), pp. 20–22."
   },
   {
+   "d": "1914",
+   "side": "crop",
+   "titel": "“The greatest cucumber industry”",
+   "text": "The Seaboard Air Line's guide for shippers and settlers prints a photograph of a “solid trainload of cucumbers leaving Williston … destined to eastern markets”.",
+   "cite": "#/text/shipping/trainload/7",
+   "citeLabel": "The shipping point [7]",
+   "plate": "sal1914_trainload",
+   "quelle": "Seaboard Air Line Railway, Shippers Guide 1914, pp. 70–71."
+  },
+  {
+   "d": "June 1916",
+   "side": "crop",
+   "titel": "“The shipping point”",
+   "text": "“After two years of failure” the growers prosper again “in the section for which Williston is the shipping point”. Dan Warren is killed by lightning on a wagon of cucumbers at a packing house.",
+   "cite": "#/text/shipping/trainload/8",
+   "citeLabel": "The shipping point [8]",
+   "plate": "oes1916_shipping",
+   "quelle": "Ocala Evening Star, 15 June 1916, p. 2."
+  },
+  {
    "d": "1917",
    "side": "rock",
    "titel": "“At low ebb”",
@@ -133,6 +177,16 @@
    "quelle": "Florida Geological Survey, Tenth and Eleventh Annual Reports (1918), pp. 105–106."
   },
   {
+   "d": "June 1919",
+   "side": "crop",
+   "titel": "Over 200,000 crates",
+   "text": "Thirteen to twenty cars a day leave Williston in the peak week, mostly in solid trains on the Atlantic Coast Line; by the end of June the season's count is over 200,000 crates.",
+   "cite": "#/text/shipping/season/11",
+   "citeLabel": "The shipping point [11]",
+   "plate": "let1919_review",
+   "quelle": "Lakeland Evening Telegram, 11 and 28 June 1919."
+  },
+  {
    "d": "April 1920",
    "side": "rock",
    "titel": "The Acme pit near Morriston",
@@ -141,6 +195,16 @@
    "citeLabel": "Hard rock [18]",
    "plate": "fm_ge0629",
    "quelle": "Florida Memory GE0629; Florida Geological Survey, Fourteenth Annual Report (1922), pp. 29–30."
+  },
+  {
+   "d": "1923",
+   "side": "crop",
+   "titel": "Three quarters from one crop",
+   "text": "On 120 farms around Williston cucumbers bring 72.3 percent of all receipts; labour is the largest expense, paid to day labourers, contract pickers and sharecroppers; two farms in five lose money.",
+   "cite": "#/text/shipping/farms/15",
+   "citeLabel": "The shipping point [15]",
+   "plate": "b175_cover",
+   "quelle": "Turlington and Hamilton, Bulletin 175 (1925), pp. 5, 8, 10–11."
   }
  ]
 }

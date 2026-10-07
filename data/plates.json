@@ -1,6 +1,6 @@
 {
  "lede": "Public-domain photographs and maps of Williston and its neighbours, each with its source. More plates follow with the modules.",
- "credit": "Photographs from the Seaboard Air Line Railway Shippers Guide (1914) and from U.S. Geological Survey Bulletin 604 (1915), and pages of gazetteers, railroad and geological reports, the state's reports on its convicts, trade papers and the Laws of Florida, after the page images of the Internet Archive; the “Standard Guide” map of 1891 and the Sanborn fire-insurance maps of Williston, January 1923, from the Library of Congress (public domain) via Wikimedia Commons; the Plant System map from Poor's Manual (1901) via Wikimedia Commons; photograph of the Acme Phosphate pit from the Florida Geological Survey Collection, State Archives of Florida, Florida Memory (public domain).",
+ "credit": "Photographs from the Seaboard Air Line Railway Shippers Guide (1914), from U.S. Geological Survey Bulletin 604 (1915) and from Florida Agricultural Experiment Station Bulletin 175 (1925); pages of gazetteers, railroad and geological reports, the state's reports on its convicts, trade papers and the Laws of Florida after the page images of the Internet Archive; newspaper pages from the Florida Digital Newspaper Library, University of Florida Digital Collections; the “Standard Guide” map of 1891 and the Sanborn fire-insurance maps of Williston, January 1923, from the Library of Congress (public domain) via Wikimedia Commons; the Plant System map from Poor's Manual (1901) via Wikimedia Commons; photograph of the Acme Phosphate pit from the Florida Geological Survey Collection, State Archives of Florida, Florida Memory (public domain).",
  "plates": [
   {
    "id": "sal1914_trainload",
@@ -155,6 +155,55 @@
    "titel": "“At low ebb”, 1913–1917",
    "caption": "Shipments of hard rock 1913–1917: exported 476,898 tons in 1913, 12,403 in 1917.",
    "source": "Florida Geological Survey, Tenth and Eleventh Annual Reports (1918), p. 106; Internet Archive annualreportf10111918flor; public domain."
+  },
+  {
+   "id": "oes1897_cukes",
+   "side": "crop",
+   "titel": "“$20,000 for Cukes”, 1897",
+   "caption": "Twenty thousand crates from the country around Williston in the first season after the railroads came.",
+   "source": "Ocala Evening Star, 16 June 1897, p. 1; University of Florida Digital Collections (Florida Digital Newspaper Library), UF00075908; public domain."
+  },
+  {
+   "id": "oes1907_bank",
+   "side": "crop",
+   "titel": "“The Williston Bank”, 1907",
+   "caption": "Nine cars of cucumbers in one day and a vault too full to close, as a county commissioner told it.",
+   "source": "Ocala Evening Star, 12 July 1907, p. 2; University of Florida Digital Collections (Florida Digital Newspaper Library), UF00075908; public domain."
+  },
+  {
+   "id": "fir1910_cukes",
+   "side": "crop",
+   "titel": "Twenty-two cars a day, 1910",
+   "caption": "“Big Crops of ‘Cukes’”: about 435 acres around Williston, a third of them irrigated.",
+   "source": "Florida's Financial and Industrial Record, Jacksonville, 18 June 1910, p. 12; University of Florida Digital Collections (Florida Digital Newspaper Library), UF00076685; public domain."
+  },
+  {
+   "id": "sal1914_labor",
+   "side": "crop",
+   "titel": "“A small amount of labor”",
+   "caption": "The railroad's photographs of a cucumber field and of the harvest, with people at work among the hampers; the place is not named.",
+   "source": "Seaboard Air Line Railway, Shippers Guide 1914, p. 70; Internet Archive seaboardairliner1914seab; public domain."
+  },
+  {
+   "id": "oes1916_shipping",
+   "side": "crop",
+   "titel": "“The shipping point”, 1916",
+   "caption": "The Williston and Oak Vale column of 15 June 1916: the sentence that names this apparatus, and the death of Dan Warren at the packing house.",
+   "source": "Ocala Evening Star, 15 June 1916, p. 2; University of Florida Digital Collections (Florida Digital Newspaper Library), UF00075908; public domain."
+  },
+  {
+   "id": "let1919_review",
+   "side": "crop",
+   "titel": "The season of 1919",
+   "caption": "“Review of Florida Vegetable Situation”, after the New York Packer: thirteen to twenty cars a day from Williston.",
+   "source": "Lakeland Evening Telegram, 11 June 1919, p. 2; University of Florida Digital Collections (Florida Digital Newspaper Library), AA00048605; public domain."
+  },
+  {
+   "id": "b175_cover",
+   "side": "crop",
+   "titel": "A cucumber field near Williston, about 1924",
+   "caption": "“Cucumbers are one of the main crops in the Williston area”: the cover of the farm business survey of 1925.",
+   "source": "Turlington and Hamilton, Factors Affecting Farm Profits in the Williston Area, University of Florida Agricultural Experiment Station Bulletin 175 (July 1925), cover, fig. 57; University of Florida Digital Collections, UF00026891; public domain."
   }
  ]
 }

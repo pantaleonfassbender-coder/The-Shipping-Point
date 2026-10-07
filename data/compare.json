@@ -97,6 +97,62 @@
      "wer": "Florida Geological Survey, 1915"
     }
    ]
+  },
+  {
+   "id": "labor",
+   "titel": "“A small amount of labor”",
+   "frage": "How much work did the cucumbers take, and whose?",
+   "note": "The railroad told prospective settlers in 1914 that cucumbers required “a small amount of labor and little expense”. The agricultural college's survey of the 1923 season found labour the largest single expense of the farms around Williston, a third of the total, paid to day labourers, contract pickers and sharecroppers. Neither source says who these workers were.",
+   "voices": [
+    {
+     "text": "shipping",
+     "sec": "trainload",
+     "n": [
+      7
+     ],
+     "wer": "Seaboard Air Line, 1914"
+    },
+    {
+     "text": "shipping",
+     "sec": "farms",
+     "n": [
+      15
+     ],
+     "wer": "Experiment Station, 1925"
+    }
+   ]
+  },
+  {
+   "id": "carsaday",
+   "titel": "How many cars a day?",
+   "frage": "How many carloads of cucumbers left Williston in a day?",
+   "note": "Nine in one day by hearsay in 1907; twenty-two a day at the height of the 1910 season; thirteen to twenty a day in the peak week of 1919, by the produce trade's count. The “seventy-five carloads a day” of recent accounts has no source of the time.",
+   "voices": [
+    {
+     "text": "shipping",
+     "sec": "first",
+     "n": [
+      5
+     ],
+     "wer": "Ocala Evening Star, 1907"
+    },
+    {
+     "text": "shipping",
+     "sec": "trainload",
+     "n": [
+      6
+     ],
+     "wer": "Financial and Industrial Record, 1910"
+    },
+    {
+     "text": "shipping",
+     "sec": "season",
+     "n": [
+      11
+     ],
+     "wer": "New York Packer, 1919"
+    }
+   ]
   }
  ]
 }

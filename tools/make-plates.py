@@ -4,7 +4,7 @@
     python tools/make-plates.py sanborn1923_1
 
 Quellen: "ia" = Seitenbild des Internet Archive mit Ausschnitt in Promille (x0, y0, x1, y1);
-"commons" = Datei auf Wikimedia Commons (2400 px; "commonsfull" in voller Größe); "local" = Datei im Ordner ../quellen (etwa von Florida Memory,
+"commons" = Datei auf Wikimedia Commons (2400 px; "commonsfull" in voller Größe); "ufdc" = Seitenbild (JPEG 2000) der University of Florida Digital Collections; "local" = Datei im Ordner ../quellen (etwa von Florida Memory,
 dessen Seiten keine automatischen Abrufe zulassen und die deshalb von Hand geladen werden).
 """
 import io
@@ -51,6 +51,14 @@ PLATES = {
     "coa1900_camps": ("ia", IAP.format(COA + "_614", 44), (30, 90, 960, 950)),
     "fgs1915_table": ("ia", IAP.format("annualreportflor71915flor", 25), (30, 672, 1000, 995)),
     "fgs1918_table": ("ia", IAP.format("annualreportf10111918flor", 127), (40, 410, 980, 860)),
+    # Modul 4: The shipping point ("ufdc" = BIBID/VID/Datei auf dem Bildserver der University of Florida)
+    "oes1897_cukes": ("ufdc", "UF00075908/09569/0358.jp2", (514, 626, 667, 717)),
+    "oes1907_bank": ("ufdc", "UF00075908/00592/0043.jp2", (231, 326, 362, 443)),
+    "fir1910_cukes": ("ufdc", "UF00076685/00034/00014.jp2", (376, 270, 630, 425)),
+    "oes1916_shipping": ("ufdc", "UF00075908/06487/0098.jp2", (564, 63, 712, 275)),
+    "let1919_review": ("ufdc", "AA00048605/02171/0290.jp2", (345, 55, 512, 460)),
+    "b175_cover": ("ufdc", "UF00026891/00001/00001.jp2", None),
+    "sal1914_labor": ("ia", "https://archive.org/download/seaboardairliner1914seab/page/n83.jpg", (30, 70, 970, 960)),
 }
 
 
@@ -87,6 +95,9 @@ def main(ids):
                 print(pid, "fehlt noch:", path)
                 continue
             im = Image.open(path)
+        elif kind == "ufdc":
+            b, v, f = src.split("/")
+            im = Image.open(io.BytesIO(fetch("https://ufdcimages.uflib.ufl.edu/" + "/".join(b[i:i + 2] for i in range(0, 10, 2)) + f"/{v}/{f}")))
         elif kind in ("commons", "commonsfull"):
             im = commons(src, kind == "commonsfull")
         else:

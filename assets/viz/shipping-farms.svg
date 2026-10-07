@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 400" role="img" aria-labelledby="sf-t sf-d" font-family="var(--serif)">
+<title id="sf-t">One crop, many hands</title><desc id="sf-d">Bulletin 175: on 120 farms around Williston in 1923, receipts averaged $3,087 per farm, of which cucumbers $2,230 (72.3 percent), livestock $291, peanuts $102, other crops and sources the rest. Labour cost $579 per farm, a third of all expenses: day labour $225 (on 80.8 percent of farms), cropper labour $117 (26.8 percent), family labour $133 (71.7 percent), contract labour $104 (45.0 percent, mostly picking cucumbers).</desc>
+<text x="16" y="28" font-size="17" font-weight="bold" fill="var(--ink)">One crop, many hands</text>
+<text x="16" y="48" font-size="13" fill="var(--ink2)">120 farms around Williston, 1923, per farm on average (Florida Experiment Station Bulletin 175, 1925).</text>
+<a href="#/text/shipping/farms/14"><text x="16" y="84" font-size="14" font-weight="bold" fill="var(--ink)" text-decoration="underline">Where the money came from: $3,087</text></a>
+<rect x="16.0" y="96" width="621.3" height="34" fill="var(--crop)"/>
+<text x="24" y="118" font-size="12.5" fill="#fff">Cucumbers $2,230 (72.2%)</text>
+<rect x="637.3" y="96" width="81.1" height="34" fill="var(--town)"/>
+<rect x="718.3" y="96" width="49.3" height="34" fill="var(--ink2)"/>
+<rect x="767.6" y="96" width="28.4" height="34" fill="var(--gold)"/>
+<rect x="796.0" y="96" width="26.7" height="34" fill="var(--line)"/>
+<rect x="822.8" y="96" width="53.2" height="34" fill="var(--rock)"/>
+<text x="16" y="148" font-size="11.5" fill="var(--ink2)">Right of cucumbers: livestock $291, other crops $177, peanuts $102 (most peanuts went to market as hogs), other sources $96, cane, melons, cotton and potatoes $191.</text>
+<a href="#/text/shipping/farms/15"><text x="16" y="190" font-size="14" font-weight="bold" fill="var(--ink)" text-decoration="underline">What the work cost: $579 of $1,712 in expenses</text></a>
+<text x="16" y="222" font-size="13" fill="var(--ink)">Day labor</text><rect x="300" y="206" width="292" height="22" fill="var(--colour)" opacity=".85"/><text x="598" y="222" font-size="12.5" fill="var(--ink)">$225 per farm</text><rect x="740" y="210" width="97" height="14" fill="var(--ink2)" opacity=".5"/><text x="841" y="222" font-size="11.5" fill="var(--ink2)">80.8%</text>
+<text x="16" y="256" font-size="13" fill="var(--ink)">Family labor</text><rect x="300" y="240" width="173" height="22" fill="var(--colour)" opacity=".85"/><text x="479" y="256" font-size="12.5" fill="var(--ink)">$133 per farm</text><rect x="740" y="244" width="86" height="14" fill="var(--ink2)" opacity=".5"/><text x="830" y="256" font-size="11.5" fill="var(--ink2)">71.7%</text>
+<text x="16" y="290" font-size="13" fill="var(--ink)">Cropper labor</text><rect x="300" y="274" width="152" height="22" fill="var(--colour)" opacity=".85"/><text x="458" y="290" font-size="12.5" fill="var(--ink)">$117 per farm</text><rect x="740" y="278" width="32" height="14" fill="var(--ink2)" opacity=".5"/><text x="776" y="290" font-size="11.5" fill="var(--ink2)">26.8%</text>
+<text x="16" y="324" font-size="13" fill="var(--ink)">Contract labor (mostly picking cucumbers)</text><rect x="300" y="308" width="135" height="22" fill="var(--colour)" opacity=".85"/><text x="441" y="324" font-size="12.5" fill="var(--ink)">$104 per farm</text><rect x="740" y="312" width="54" height="14" fill="var(--ink2)" opacity=".5"/><text x="798" y="324" font-size="11.5" fill="var(--ink2)">45.0%</text>
+<text x="740" y="200" font-size="11.5" fill="var(--ink2)">share of farms paying it</text>
+<text x="16" y="360" font-size="12" fill="var(--ink2)">The survey counts the work as costs. Who the day labourers, pickers and sharecroppers were, and what they earned a day, it does not say.</text>
+</svg>

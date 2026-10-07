@@ -17,6 +17,15 @@
    "quelle": "Manufacturers' Record 1893; Reports of the Commissioner of Agriculture of Florida 1893–1902; USGS Bulletin 604 (1915); Florida Geological Survey annual reports 1915–1922.",
    "datei": "rock",
    "zk": "Belt · Leased men · Pit · War"
+  },
+  {
+   "id": "shipping",
+   "side": "crop",
+   "kurz": "4 · The shipping point",
+   "warum": "Cucumbers from 20,000 crates in 1897 to over 200,000 in 1919, nine to twenty-two cars a day, consigned to commission men in the North. In 1923 they brought nearly three quarters of the farms' income; the work was done by day labourers, contract pickers and sharecroppers whom no source names.",
+   "quelle": "Ocala Evening Star 1897–1916; USDA Soil Survey 1904; Florida's Financial and Industrial Record 1910; SAL Shippers Guide 1914; Cammack 1916; USDA Bulletin 462 (1917); Lakeland Evening Telegram 1919; Florida Experiment Station Bulletin 175 (1925).",
+   "datei": "shipping",
+   "zk": "First cars · Trainload · 1919 · Who did the work"
   }
  ],
  "planned": [
@@ -26,13 +35,6 @@
    "kurz": "1 · Before the rails",
    "warum": "Jesse M. Willis, the people he enslaved, and a settlement between Marion and Levy counties; Yulee's Florida Railroad to Cedar Key passes it by. In 1886 Archer, eleven miles off, is its shipping point.",
    "quelle": "Florida State Gazetteer 1886; Ocala Banner 1911; Makers of America 1911."
-  },
-  {
-   "id": "shipping",
-   "side": "crop",
-   "kurz": "4 · The shipping point",
-   "warum": "Cucumbers by the carload to New York and the East: commission men, crates, ice and cold storage, and the solid trainloads of the railroad's advertising.",
-   "quelle": "USDA Soil Survey 1904; Seaboard Air Line Shippers Guide 1914; Cammack 1916; Florida newspapers 1907–1919; USDA Bulletin 462 (1917)."
   },
   {
    "id": "line",
@@ -68,8 +70,8 @@
    "id": "seventyfive",
    "side": "crop",
    "kurz": "“Seventy-five carloads a day”",
-   "warum": "A figure found only in recent accounts of Williston's cucumber trade. No period source carrying it has been found so far; the period figures are nine cars in a day (1907) and thirteen to twenty cars daily (1919).",
-   "quelle": "Recent local histories."
+   "warum": "A figure found only in recent accounts of Williston's cucumber trade, for example as something “reportedly” shipped in the 1920s (Levy County Journal, 26 October 2006). No source of the time carrying it has been found. The period figures are nine cars in a day (1907), twenty-two cars a day at the height of the season (1910) and thirteen to twenty cars daily (1919); a local history of 1983 gives seventeen. Recent texts are under copyright and are cited, not printed.",
+   "quelle": "Levy County Journal, 26 Oct. 2006; Search for Yesterday, ch. 13 (Levy County Archives Committee, 1983), both in the University of Florida Digital Collections."
   },
   {
    "id": "sanborn1930",
@@ -77,6 +79,13 @@
    "kurz": "Sanborn maps of Williston (1930) and Bronson (1924)",
    "warum": "In the public domain but not yet digitized by the Library of Congress; the map layer starts with the Williston sheets of January 1923.",
    "quelle": "Library of Congress, Sanborn Maps Collection."
+  },
+  {
+   "id": "cuke1930s",
+   "side": "crop",
+   "kurz": "The cucumber surveys of 1928–1932",
+   "warum": "The Experiment Station followed Bulletin 175 with “Factors Affecting Cucumber Yields, Costs, and Profits: A Study of the Williston Area, Florida, for 1923, 1928, 1930 and 1932”. Published after 1930, its copyright status has to be checked before anything is printed from it.",
+   "quelle": "University of Florida Agricultural Experiment Station, 1930s."
   }
  ]
 }
